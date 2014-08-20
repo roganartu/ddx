@@ -179,7 +179,6 @@ Daddy!
 
 40
 00:01:58,074 --> 00:02:01,176
-
 Hey, man, are you okay?
 
 41
@@ -1202,7 +1201,6 @@ to get better.
 
 260
 00:10:59,745 --> 00:11:01,079
-
 The autonomic nervous system
 
 261
@@ -1231,7 +1229,6 @@ you knew Dr. Taub.
 
 266
 00:11:15,294 --> 00:11:16,461
-
 I don't.
 
 267
@@ -1458,7 +1455,6 @@ trustworthy doctor here?
 
 314
 00:14:05,464 --> 00:14:08,933
-
 I knew it was bugging you.
 
 315
@@ -1556,7 +1552,6 @@ O2 sats are dropping.
 
 334
 00:14:56,115 --> 00:14:58,916
-
 He's not breathing.
 Suction.
 
@@ -1939,7 +1934,6 @@ to say that?
 
 417
 00:18:02,708 --> 00:18:04,909
-
 I've never met your daughter.
 
 418
@@ -2074,7 +2068,6 @@ your biggest fan.
 
 446
 00:19:29,895 --> 00:19:33,431
-
 I'm gonna need you
 to cough.
 
@@ -2728,7 +2721,6 @@ The pain in my ear is gone.
 
 586
 00:25:21,585 --> 00:25:24,720
-
 Gone? Completely?
 
 587
@@ -3041,7 +3033,6 @@ the pythagorean theorem"?
 
 651
 00:27:56,491 --> 00:27:59,693
-
 Hello?
 
 652
@@ -3217,7 +3208,6 @@ I had a chance.
 
 689
 00:29:44,498 --> 00:29:47,834
-
 Leaving aside the fact
 that House is a sociopath,
 
@@ -3431,7 +3421,6 @@ Isn't this nice?
 
 736
 00:32:14,582 --> 00:32:15,515
-
 What's this note?
 
 737
@@ -3512,7 +3501,6 @@ with his brain before,
 
 754
 00:32:50,134 --> 00:32:52,402
-
 Any particular reason we need
 to be looking at the patient?
 
@@ -3531,7 +3519,6 @@ and she looks mad.
 
 758
 00:32:57,842 --> 00:32:59,576
-
 What did you do?
 
 759
@@ -3894,7 +3881,6 @@ What do you think?
 
 836
 00:36:34,458 --> 00:36:36,826
-
 I've got a train to catch.
 
 837
@@ -4218,7 +4204,6 @@ Then what are we doing?
 
 906
 00:40:53,083 --> 00:40:56,286
-
 You know, you turned out
 remarkably close to normal,
 
