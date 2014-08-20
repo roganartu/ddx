@@ -1,0 +1,3833 @@
+1
+00:00:36,594 --> 00:00:38,262
+[Alarm rings]
+
+2
+00:00:41,234 --> 00:00:43,737
+Cranial nerves.
+
+3
+00:00:43,805 --> 00:00:46,039
+On old Olympus'
+towering tops
+
+4
+00:00:46,107 --> 00:00:47,842
+a friendly Viking
+grew vines and hops.
+
+5
+00:00:47,910 --> 00:00:50,513
+Olfactory. Optic.
+Oculomotor.
+
+6
+00:00:50,580 --> 00:00:54,918
+<i>Vagus. Accessory.</i>
+<i>Causes of edema: A.L.I.V.E.</i>
+
+7
+00:00:54,985 --> 00:00:56,085
+<i>Allergic...</i>
+
+8
+00:00:56,153 --> 00:00:58,389
+Differentials
+for swollen scrotum:
+
+9
+00:00:58,457 --> 00:01:00,091
+T.H.E.A.T.R.E.S.
+
+10
+00:01:00,158 --> 00:01:04,630
+English spelling.
+Torsion, hernia...
+
+11
+00:01:04,698 --> 00:01:09,101
+Epididymal cyst.
+S...Syphilis.
+
+12
+00:01:09,169 --> 00:01:10,770
+Enough with the drilling.
+
+13
+00:01:10,838 --> 00:01:12,005
+<i>We're third year.</i>
+
+14
+00:01:12,072 --> 00:01:13,306
+No more exams.
+
+15
+00:01:13,374 --> 00:01:14,975
+You don't have to face House
+every day.
+
+16
+00:01:15,043 --> 00:01:16,844
+And after today,
+neither do you.
+
+17
+00:01:16,911 --> 00:01:19,714
+Here's to no more
+coming home in tears.
+
+18
+00:01:19,782 --> 00:01:21,849
+It's kind of like coming
+to the end
+
+19
+00:01:21,917 --> 00:01:23,584
+of an extreme
+roller-coaster.
+
+20
+00:01:23,652 --> 00:01:25,387
+<i>Even with the terror,</i>
+
+21
+00:01:25,454 --> 00:01:28,223
+nausea, and whiplash.
+
+22
+00:01:28,291 --> 00:01:29,491
+I'm a little sad
+that it's over.
+
+23
+00:01:29,559 --> 00:01:30,826
+Let's go.
+
+24
+00:01:30,894 --> 00:01:32,561
+You got
+your procedure log?
+
+25
+00:01:32,629 --> 00:01:34,096
+Oh, I'm not quite done.
+
+26
+00:01:34,164 --> 00:01:35,664
+I still have
+one more lumbar puncture.
+
+27
+00:01:35,732 --> 00:01:37,199
+<i>It's due today.</i>
+
+28
+00:01:37,267 --> 00:01:38,634
+<i>Unless you want to blow off</i>
+<i>becoming a doctor</i>
+
+29
+00:01:38,701 --> 00:01:40,035
+and get another PhD.
+
+30
+00:01:40,103 --> 00:01:42,137
+I know.
+I'm gonna get it done.
+
+31
+00:01:42,205 --> 00:01:43,405
+I thought you'd have
+that thing finished
+
+32
+00:01:43,472 --> 00:01:44,372
+like six months ago.
+
+33
+00:01:44,440 --> 00:01:46,708
+I've been busy.
+
+34
+00:01:58,321 --> 00:01:59,922
+Oh, come on, Cruz.
+
+35
+00:01:59,989 --> 00:02:01,958
+Let me do this.
+I need it for my log.
+
+36
+00:02:02,025 --> 00:02:04,427
+Wait, you aren't done yet?
+
+37
+00:02:04,494 --> 00:02:06,062
+I've been busy.
+
+38
+00:02:06,130 --> 00:02:07,964
+What's in it for me?
+
+39
+00:02:08,032 --> 00:02:09,966
+The satisfaction
+that comes
+
+40
+00:02:10,034 --> 00:02:11,401
+from helping out
+a classmate?
+
+41
+00:02:12,536 --> 00:02:14,070
+How about cash?
+
+42
+00:02:14,138 --> 00:02:15,571
+Have you talked
+to House?
+
+43
+00:02:15,639 --> 00:02:17,507
+It's 6:00 am.
+He won't be in for a few hours.
+
+44
+00:02:17,575 --> 00:02:20,443
+I keep a roll of quarters
+in the car...
+
+45
+00:02:20,511 --> 00:02:22,545
+I just turned in my log
+and guess what I saw.
+
+46
+00:02:22,613 --> 00:02:24,847
+There's an opening
+in the Diagnostics Department.
+
+47
+00:02:24,915 --> 00:02:27,917
+House wants
+an intern?
+
+48
+00:02:27,984 --> 00:02:29,552
+He's never
+had one before.
+
+49
+00:02:29,619 --> 00:02:32,221
+You gotta figure
+he doesn't want an intern.
+
+50
+00:02:32,289 --> 00:02:34,457
+He wants you.
+
+51
+00:02:39,063 --> 00:02:42,563
+<font color=#00FF00>♪ House 7x19 ♪</font>
+<font color=#00FFFF>Last Temptation</font>
+<font color=#000000>Original Air Date on April 18, 2011</font>
+
+52
+00:02:42,564 --> 00:02:46,564
+== sync, corrected by <font color="#00ff00">elderman</font> ==
+
+53
+00:02:46,566 --> 00:03:09,137
+♪ ♪
+
+54
+00:03:15,904 --> 00:03:17,438
+Uh, you must be
+
+55
+00:03:17,506 --> 00:03:19,473
+Dr. Thirteen.
+
+56
+00:03:19,541 --> 00:03:21,042
+Remy Hadley.
+
+57
+00:03:21,110 --> 00:03:22,176
+Nice to meet you.
+
+58
+00:03:22,244 --> 00:03:23,677
+You're back.
+
+59
+00:03:23,745 --> 00:03:25,980
+- Hi.
+- Hi.
+
+60
+00:03:29,451 --> 00:03:30,350
+<i>What the hell</i>
+
+61
+00:03:30,418 --> 00:03:31,785
+happened to you?
+
+62
+00:03:31,852 --> 00:03:33,319
+Why'd you lie
+about going to Rome?
+
+63
+00:03:33,387 --> 00:03:34,654
+<i>(House)</i>
+<i>You'd lie too</i>
+
+64
+00:03:34,722 --> 00:03:36,923
+if you bottomed out,
+ended up in...
+
+65
+00:03:36,991 --> 00:03:40,259
+drug rehab.
+
+66
+00:03:40,327 --> 00:03:43,128
+Thank you, House,
+for respecting my privacy.
+
+67
+00:03:43,196 --> 00:03:44,997
+What a perfect reminder
+that I'm back.
+
+68
+00:03:45,064 --> 00:03:46,831
+I didn't even know
+you had a problem.
+
+69
+00:03:46,899 --> 00:03:49,367
+Loved ones are always
+the last to know.
+
+70
+00:03:49,435 --> 00:03:52,471
+Loved ones and robotic,
+estranged ex-boyfriends.
+
+71
+00:03:52,538 --> 00:03:53,939
+<i>Our patient</i>
+
+72
+00:03:54,006 --> 00:03:56,408
+is Kendall Pearson.
+
+73
+00:03:56,476 --> 00:03:58,043
+16-year-old aspiring pirate.
+
+74
+00:03:58,110 --> 00:03:59,611
+She's that Canadian kid
+who's trying to be
+
+75
+00:03:59,678 --> 00:04:01,813
+the youngest person
+to sail around the world.
+
+76
+00:04:01,880 --> 00:04:03,481
+Collapsed yesterday
+during a practice run.
+
+77
+00:04:03,549 --> 00:04:05,516
+Luckily for us,
+cameras were there.
+
+78
+00:04:05,584 --> 00:04:08,720
+Corporate sponsors
+want us to check
+
+79
+00:04:08,787 --> 00:04:11,156
+<i>that's she seaworthy</i>
+<i>before the clock strikes</i>
+
+80
+00:04:11,223 --> 00:04:12,991
+"you're too old
+to set a record."
+
+81
+00:04:13,059 --> 00:04:14,860
+<i>Gives us three days.</i>
+
+82
+00:04:14,927 --> 00:04:18,063
+You've still only got one,
+right?
+
+83
+00:04:18,130 --> 00:04:19,764
+Uh, last day
+of my rotation.
+
+84
+00:04:19,832 --> 00:04:21,332
+<i>Could be simple dehydration.</i>
+
+85
+00:04:21,400 --> 00:04:22,767
+She told
+the Coast Guard
+
+86
+00:04:22,835 --> 00:04:25,937
+she had felt dizzy.
+
+87
+00:04:26,005 --> 00:04:28,206
+Pulse and BP were normal
+at the time of the rescue.
+
+88
+00:04:28,274 --> 00:04:31,509
+It's not dehydration.
+What about your internship?
+
+89
+00:04:31,577 --> 00:04:34,713
+<i>You sign up this morning?</i>
+
+90
+00:04:34,781 --> 00:04:38,283
+Actually,
+I'm still deciding.
+
+91
+00:04:38,351 --> 00:04:40,719
+Maybe she had a seizure
+
+92
+00:04:40,786 --> 00:04:42,153
+and that's what caused
+her collapse.
+
+93
+00:04:42,221 --> 00:04:44,690
+Coast Guard report
+says no sign of head trauma.
+
+94
+00:04:44,757 --> 00:04:46,158
+But what about
+her back?
+
+95
+00:04:46,225 --> 00:04:47,492
+<i>Look.</i>
+
+96
+00:04:47,560 --> 00:04:48,793
+Right before the collapse,
+
+97
+00:04:48,860 --> 00:04:50,461
+she hit the small of her back
+on the railing.
+
+98
+00:04:50,529 --> 00:04:53,031
+Damaged adrenal glands
+caused adrenal insufficiencies,
+
+99
+00:04:53,098 --> 00:04:54,165
+which caused
+the collapse.
+
+100
+00:04:55,401 --> 00:04:56,668
+Nice.
+
+101
+00:04:56,735 --> 00:04:58,003
+<i>Blood draws</i>
+<i>every 15 minutes</i>
+
+102
+00:04:58,070 --> 00:04:59,070
+<i>for four hours.</i>
+
+103
+00:04:59,138 --> 00:05:00,805
+<i>Let's track her cortisol.</i>
+
+104
+00:05:00,873 --> 00:05:03,441
+Masters,
+there's no hurry.
+
+105
+00:05:03,509 --> 00:05:05,243
+There's no wrong choices.
+
+106
+00:05:05,311 --> 00:05:07,245
+At least,
+that's what they tell people
+
+107
+00:05:07,313 --> 00:05:08,680
+who make crappy choices.
+
+108
+00:05:08,747 --> 00:05:10,381
+What's with the sudden interest
+in her future?
+
+109
+00:05:10,449 --> 00:05:12,550
+[Sighs] You know,
+a blacksmith who spends
+
+110
+00:05:12,618 --> 00:05:16,454
+this much time hammering out
+a new blade from raw jell-o
+
+111
+00:05:16,522 --> 00:05:17,655
+gets curious
+
+112
+00:05:17,723 --> 00:05:18,623
+about who ends up
+wielding it.
+
+113
+00:05:18,691 --> 00:05:19,925
+No reason to be curious
+
+114
+00:05:19,992 --> 00:05:21,827
+unless you're interested
+in wielding it yourself.
+
+115
+00:05:21,894 --> 00:05:23,695
+<i>You want her</i>
+<i>to intern here.</i>
+
+116
+00:05:25,966 --> 00:05:27,733
+And you're
+considering this?
+
+117
+00:05:27,800 --> 00:05:29,635
+Before I make my decision,
+
+118
+00:05:29,702 --> 00:05:32,171
+I still have one more LP
+
+119
+00:05:32,238 --> 00:05:34,540
+I need to get.
+
+120
+00:05:34,608 --> 00:05:36,776
+So I'd like to go
+to the E.R.
+
+121
+00:05:38,512 --> 00:05:40,380
+Thirteen,
+why don't you take Masters
+
+122
+00:05:40,448 --> 00:05:41,916
+<i>to do the blood draws.</i>
+
+123
+00:05:41,983 --> 00:05:43,184
+You can remind her
+about all the perks
+
+124
+00:05:43,251 --> 00:05:44,485
+of working for me.
+
+125
+00:05:51,827 --> 00:05:53,794
+(Kendall)
+Behind the deck.
+Port side.
+
+126
+00:05:53,862 --> 00:05:56,064
+(Thirteen)
+If her adrenal hormone levels
+are consistently low,
+
+127
+00:05:56,131 --> 00:05:57,398
+we'll replace them.
+
+128
+00:05:57,466 --> 00:05:58,866
+You'll be ready to launch
+Thursday.
+
+129
+00:05:58,934 --> 00:06:01,168
+Great.
+
+130
+00:06:01,236 --> 00:06:03,504
+Inside cabin
+facing the bow.
+
+131
+00:06:03,572 --> 00:06:05,573
+Sorry, K,
+I need to borrow mom.
+
+132
+00:06:05,641 --> 00:06:06,874
+The sponsors?
+
+133
+00:06:06,941 --> 00:06:08,208
+No, Couric's people
+kicking up a fuss
+
+134
+00:06:08,276 --> 00:06:09,610
+about rescheduling
+the interview.
+
+135
+00:06:12,781 --> 00:06:14,182
+I can take over.
+
+136
+00:06:19,188 --> 00:06:20,789
+Ceiling of the galley.
+
+137
+00:06:20,856 --> 00:06:23,158
+Right. The last time
+I was on a boat
+
+138
+00:06:23,226 --> 00:06:25,228
+was my freshman mixer
+in college.
+
+139
+00:06:25,295 --> 00:06:27,864
+I didn't so much mix
+as hurl.
+
+140
+00:06:27,932 --> 00:06:31,267
+Too much to drink?
+No, I was 13.
+
+141
+00:06:31,335 --> 00:06:32,602
+And in college?
+
+142
+00:06:32,669 --> 00:06:35,004
+Yeah, I know. Weird.
+
+143
+00:06:35,072 --> 00:06:36,973
+I was thinking "cool."
+
+144
+00:06:37,040 --> 00:06:38,741
+We'll be back
+for the next blood draw
+
+145
+00:06:38,808 --> 00:06:40,209
+in 15 minutes.
+
+146
+00:06:40,277 --> 00:06:41,577
+Unless, of course,
+you'd like to stay
+
+147
+00:06:41,645 --> 00:06:43,746
+and continue bonding
+over your lost childhoods.
+
+148
+00:06:43,813 --> 00:06:45,647
+<i>(Kendall)</i>
+<i>Listen, I have a ton</i>
+
+149
+00:06:45,715 --> 00:06:47,349
+of prep work to do
+to be ready to launch.
+
+150
+00:06:47,417 --> 00:06:48,951
+Is there any way
+we can speed the tests up?
+
+151
+00:06:49,019 --> 00:06:50,820
+Mm, I'm afraid not.
+
+152
+00:06:50,887 --> 00:06:53,722
+Unless you're up
+for getting on a treadmill.
+
+153
+00:06:53,790 --> 00:06:55,924
+<i>We could stress her body.</i>
+
+154
+00:06:55,992 --> 00:06:57,426
+<i>See if her adrenals</i>
+<i>respond.</i>
+
+155
+00:06:57,493 --> 00:06:58,960
+<i>It would only take</i>
+<i>a half an hour.</i>
+
+156
+00:06:59,028 --> 00:07:01,229
+[Pager beeps]
+
+157
+00:07:01,297 --> 00:07:05,333
+It's about an LP.
+Go. I'll handle this.
+
+158
+00:07:12,908 --> 00:07:14,942
+Um, Dr. Cuddy,
+
+159
+00:07:15,010 --> 00:07:16,043
+can I come by
+your office later?
+
+160
+00:07:16,111 --> 00:07:17,011
+I'd love
+to get some advice.
+
+161
+00:07:17,079 --> 00:07:18,479
+I'm in meetings
+all afternoon.
+
+162
+00:07:18,547 --> 00:07:19,580
+Try me tomorrow.
+
+163
+00:07:19,648 --> 00:07:21,648
+Tomorrow?
+
+164
+00:07:21,716 --> 00:07:22,749
+This is...
+
+165
+00:07:22,817 --> 00:07:24,617
+This is my last day
+
+166
+00:07:24,685 --> 00:07:25,885
+as a medical student.
+
+167
+00:07:25,953 --> 00:07:27,487
+So I've got this decision
+to make.
+
+168
+00:07:27,555 --> 00:07:29,922
+Probably the biggest decision
+of my career.
+
+169
+00:07:29,990 --> 00:07:32,291
+Which means maybe
+the biggest decision
+
+170
+00:07:32,359 --> 00:07:34,294
+of my life.
+
+171
+00:07:34,361 --> 00:07:37,097
+Although, I guess,
+if I get married...
+
+172
+00:07:37,165 --> 00:07:40,668
+Um, House has opened up
+an internship.
+
+173
+00:07:40,736 --> 00:07:42,403
+You do realize
+if you take it,
+
+174
+00:07:42,471 --> 00:07:44,405
+he'll probably end up
+firing you again?
+
+175
+00:07:44,473 --> 00:07:45,940
+He's always
+hired me back.
+
+176
+00:07:46,008 --> 00:07:48,843
+And he'll continue mocking
+and insulting you
+
+177
+00:07:48,910 --> 00:07:52,746
+whatever chance he gets.
+
+178
+00:07:52,813 --> 00:07:56,149
+It's certainly
+toughened me up.
+
+179
+00:07:56,217 --> 00:07:58,084
+You're trying to get me
+to say good things about him.
+
+180
+00:07:58,152 --> 00:08:00,720
+No. I'm trying to make you
+make your own decision
+
+181
+00:08:00,788 --> 00:08:02,489
+and leave me alone.
+
+182
+00:08:04,458 --> 00:08:06,359
+Working with House is great.
+
+183
+00:08:06,427 --> 00:08:07,494
+And it sucks.
+
+184
+00:08:07,561 --> 00:08:09,562
+Often simultaneously.
+
+185
+00:08:09,630 --> 00:08:11,564
+Most people can't work
+in that environment.
+
+186
+00:08:11,632 --> 00:08:13,233
+Question is...
+
+187
+00:08:13,301 --> 00:08:14,501
+Can you?
+
+188
+00:08:16,571 --> 00:08:19,106
+Thanks, Dr. Cuddy.
+
+189
+00:08:36,824 --> 00:08:39,159
+You pad me down here
+and now you're doing my LP?
+
+190
+00:08:39,227 --> 00:08:40,327
+I got bored waiting.
+
+191
+00:08:40,395 --> 00:08:41,962
+<i>It's been two minutes.</i>
+
+192
+00:08:42,030 --> 00:08:43,597
+This is your 11th.
+14th.
+
+193
+00:08:43,664 --> 00:08:45,365
+<i>Listen, your roommate,</i>
+
+194
+00:08:45,433 --> 00:08:46,733
+is she hooking up
+with that resident?
+
+195
+00:08:46,801 --> 00:08:48,769
+I got to find House.
+
+196
+00:09:04,249 --> 00:09:09,587
+[Chicken coos]
+
+197
+00:09:15,461 --> 00:09:17,261
+<i>(Thirteen)</i>
+<i>Rehab? Great cover story.</i>
+
+198
+00:09:17,329 --> 00:09:19,230
+<i>Now I can't ever drink</i>
+<i>around those guys again,</i>
+
+199
+00:09:19,297 --> 00:09:21,199
+<i>thus eliminating my main bond</i>
+<i>with Chase.</i>
+
+200
+00:09:21,267 --> 00:09:22,767
+<i>(House)</i>
+<i>Save the attitude for someone</i>
+
+201
+00:09:22,835 --> 00:09:24,735
+<i>who didn't just get you</i>
+<i>your medical license back.</i>
+
+202
+00:09:24,803 --> 00:09:25,703
+Price you pay.
+
+203
+00:09:25,770 --> 00:09:27,538
+There's a chicken
+
+204
+00:09:27,606 --> 00:09:28,639
+in your office.
+
+205
+00:09:28,707 --> 00:09:30,407
+No, there isn't.
+
+206
+00:09:30,475 --> 00:09:33,110
+You lied about rehab?
+
+207
+00:09:33,178 --> 00:09:34,578
+- Oh, great.
+- Relax.
+
+208
+00:09:34,646 --> 00:09:37,047
+She's completely honest,
+but also completely boring.
+
+209
+00:09:37,115 --> 00:09:39,450
+Watch this.
+Don't tell anyone.
+
+210
+00:09:39,518 --> 00:09:40,951
+Of course not.
+
+211
+00:09:45,791 --> 00:09:47,892
+You did an LP?
+Why didn't you page me?
+
+212
+00:09:47,960 --> 00:09:49,928
+Oh, I'm sorry. Did you want
+to do one of those?
+
+213
+00:09:49,996 --> 00:09:51,029
+You should've spoken up.
+
+214
+00:09:51,097 --> 00:09:53,131
+<i>You want the job or not?</i>
+
+215
+00:09:53,199 --> 00:09:56,635
+Um, I--
+after careful consideration,
+
+216
+00:09:56,702 --> 00:09:59,304
+I have decided
+to accept your offer
+
+217
+00:09:59,372 --> 00:10:01,073
+for an internship.
+
+218
+00:10:02,842 --> 00:10:04,176
+Great.
+
+219
+00:10:04,244 --> 00:10:05,745
+<i>My department</i>
+<i>has a slightly different</i>
+
+220
+00:10:05,812 --> 00:10:08,013
+procedure log.
+
+221
+00:10:08,081 --> 00:10:09,081
+Uh, you forged
+
+222
+00:10:09,149 --> 00:10:10,249
+the last one.
+
+223
+00:10:10,317 --> 00:10:12,752
+I only did nine LPs.
+
+224
+00:10:12,819 --> 00:10:14,853
+- Do you know how to do an LP?
+- Of course.
+
+225
+00:10:14,921 --> 00:10:16,321
+Do you know
+how to do nine LPs
+
+226
+00:10:16,389 --> 00:10:17,956
+<i>and say it was ten?</i>
+
+227
+00:10:18,023 --> 00:10:19,590
+It's time to grow up.
+
+228
+00:10:19,658 --> 00:10:20,691
+Turn that in,
+
+229
+00:10:20,759 --> 00:10:22,693
+<i>the job's yours.</i>
+
+230
+00:10:22,761 --> 00:10:26,363
+[Pager beeping]
+
+231
+00:10:26,430 --> 00:10:28,398
+<i>Stop staring blankly</i>
+<i>and go.</i>
+
+232
+00:10:28,466 --> 00:10:29,966
+No doubt something horrible
+has just happened
+
+233
+00:10:30,034 --> 00:10:31,567
+to our patient.
+
+234
+00:10:41,209 --> 00:10:42,676
+<i>(Thirteen)</i>
+<i>Her hand turned completely blue</i>
+
+235
+00:10:42,744 --> 00:10:43,810
+<i>during the treadmill test.</i>
+
+236
+00:10:43,878 --> 00:10:44,845
+We put her on vasodilators.
+
+237
+00:10:44,912 --> 00:10:45,946
+Restored enough blood flow
+
+238
+00:10:46,013 --> 00:10:47,013
+so she won't lose
+any fingers.
+
+239
+00:10:47,081 --> 00:10:48,281
+Rules out
+adrenal insufficiency.
+
+240
+00:10:49,642 --> 00:10:50,909
+Where's House?
+He said to meet him here.
+
+241
+00:10:50,977 --> 00:10:52,678
+His chicken's gone.
+
+242
+00:10:52,746 --> 00:10:54,413
+<i>(Chase)</i>
+<i>Probably on the balcony.</i>
+
+243
+00:10:54,481 --> 00:10:56,048
+You knew he had
+a chicken?
+
+244
+00:10:56,115 --> 00:10:58,450
+How come--?
+<i>(House) Down here!</i>
+
+245
+00:11:00,286 --> 00:11:04,422
+Loss of consciousness.
+Plus she's slowly turning blue.
+
+246
+00:11:04,490 --> 00:11:06,791
+Can we rule out
+magical gum?
+
+247
+00:11:06,859 --> 00:11:08,493
+(Chase)
+Low cardiac output
+can cause both.
+
+248
+00:11:08,561 --> 00:11:09,794
+Patient possibly has
+
+249
+00:11:09,862 --> 00:11:11,729
+<i>cardiomyopathy.</i>
+
+250
+00:11:11,797 --> 00:11:13,197
+<i>Possibly caused</i>
+<i>by Mercury poisoning</i>
+
+251
+00:11:13,264 --> 00:11:14,665
+<i>from all the tuna fish</i>
+<i>she eats at sea.</i>
+
+252
+00:11:14,732 --> 00:11:15,899
+<i>(Masters)</i>
+<i>Uh, why are you putting,</i>
+
+253
+00:11:15,967 --> 00:11:18,034
+um, chicken footprints
+on the floor?
+
+254
+00:11:18,101 --> 00:11:22,905
+That clever bastard Wilson
+got a hold of an Australorp.
+
+255
+00:11:24,208 --> 00:11:26,108
+Ah.
+<i>Hello.</i>
+
+256
+00:11:26,176 --> 00:11:28,344
+The quietest and calmest
+of all the chickens.
+
+257
+00:11:28,411 --> 00:11:30,279
+Damn him.
+
+258
+00:11:30,346 --> 00:11:32,181
+Mercury poisoning
+is out.
+
+259
+00:11:32,248 --> 00:11:33,916
+<i>Red blood cells</i>
+<i>have normal morphology.</i>
+
+260
+00:11:33,984 --> 00:11:35,484
+<i>(Thirteen)</i>
+<i>Raynaud's.</i>
+
+261
+00:11:35,552 --> 00:11:37,820
+<i>Vasospasm in the ulnar artery</i>
+<i>would explain the hand.</i>
+
+262
+00:11:37,887 --> 00:11:39,388
+<i>(Foreman)</i>
+<i>But not the loss</i>
+<i>of consciousness.</i>
+
+263
+00:11:39,455 --> 00:11:41,323
+Cerebral vasospasm
+explains both.
+
+264
+00:11:41,391 --> 00:11:42,457
+<i>(House)</i>
+<i>Cerebral vasospasm</i>
+
+265
+00:11:42,525 --> 00:11:43,425
+makes sense.
+
+266
+00:11:43,493 --> 00:11:44,860
+Take Thirteen.
+
+267
+00:11:44,928 --> 00:11:46,562
+Give the patient a calcium
+channel blocker infusion
+
+268
+00:11:46,629 --> 00:11:47,629
+in the basilar artery.
+
+269
+00:11:49,633 --> 00:11:51,333
+<i>Masters.</i>
+
+270
+00:11:51,401 --> 00:11:52,868
+I thought you were going
+to turn that in.
+
+271
+00:11:54,471 --> 00:11:55,537
+Um, I, um,
+
+272
+00:11:55,605 --> 00:11:56,672
+been busy with my patient.
+
+273
+00:11:56,740 --> 00:11:58,607
+You're not busy now.
+
+274
+00:12:07,617 --> 00:12:10,385
+Bawwwwwwk bawk.
+
+275
+00:12:23,233 --> 00:12:24,333
+<i>(Donovan)</i>
+<i>Masters.</i>
+
+276
+00:12:24,401 --> 00:12:26,402
+Still haven't turned in
+your log?
+
+277
+00:12:26,470 --> 00:12:29,772
+Still haven't gotten
+my tenth LP.
+
+278
+00:12:29,840 --> 00:12:31,574
+I was thinking
+maybe you should take
+
+279
+00:12:31,641 --> 00:12:33,642
+House's internship.
+
+280
+00:12:33,710 --> 00:12:35,477
+First you act
+like it's the equivalent
+
+281
+00:12:35,545 --> 00:12:36,945
+of volunteering
+to be waterboarded
+
+282
+00:12:37,013 --> 00:12:39,114
+and now
+you're supporting it?
+
+283
+00:12:40,983 --> 00:12:43,819
+You're weird.
+
+284
+00:12:43,887 --> 00:12:45,254
+You make paper airplanes
+for fun
+
+285
+00:12:45,322 --> 00:12:46,788
+and hang them
+from the ceiling.
+
+286
+00:12:46,856 --> 00:12:49,291
+You have a membership
+to the Einstein Museum
+
+287
+00:12:49,359 --> 00:12:51,694
+and an overbearing obsession
+with facial symmetry.
+
+288
+00:12:51,761 --> 00:12:53,496
+It indicates freedom
+from disease.
+
+289
+00:12:53,564 --> 00:12:55,131
+We're biologically
+programmed--
+
+290
+00:12:55,199 --> 00:12:56,199
+the point is
+
+291
+00:12:56,267 --> 00:12:58,000
+you rub people
+the wrong way.
+
+292
+00:12:58,068 --> 00:13:00,536
+But House is okay with your lack
+of bedside manner.
+
+293
+00:13:00,604 --> 00:13:01,870
+He's okay
+with your willingness
+
+294
+00:13:01,938 --> 00:13:03,639
+to argue any point
+with anyone
+
+295
+00:13:03,707 --> 00:13:05,441
+even if they outrank you.
+
+296
+00:13:05,509 --> 00:13:07,710
+He's okay with your peculiar
+fashion sense.
+
+297
+00:13:07,778 --> 00:13:09,145
+It's peculiar?
+
+298
+00:13:09,213 --> 00:13:10,446
+House doesn't think
+you're weird,
+
+299
+00:13:10,514 --> 00:13:11,447
+which is weird,
+
+300
+00:13:11,515 --> 00:13:14,217
+but good weird.
+
+301
+00:13:14,284 --> 00:13:15,585
+Is that a chicken?
+
+302
+00:13:22,492 --> 00:13:25,294
+I think it's an Australorp.
+
+303
+00:13:27,363 --> 00:13:28,564
+I'm gonna go check
+on my patient.
+
+304
+00:13:39,677 --> 00:13:40,543
+Can someone please
+explain to me
+
+305
+00:13:40,611 --> 00:13:41,645
+what House and Wilson
+
+306
+00:13:41,712 --> 00:13:43,079
+are doing
+with those chickens?
+
+307
+00:13:43,147 --> 00:13:44,748
+They have a bet to see
+who can keep a chicken
+
+308
+00:13:44,816 --> 00:13:46,817
+in the hospital the longest
+without getting busted
+
+309
+00:13:46,884 --> 00:13:48,685
+<i>by security.</i>
+
+310
+00:13:48,753 --> 00:13:50,287
+Advancing past
+the vertebral artery.
+
+311
+00:13:50,355 --> 00:13:52,255
+<i>And why</i>
+<i>are they doing this?</i>
+
+312
+00:13:52,323 --> 00:13:54,558
+The place they bought them
+only had one pig.
+
+313
+00:13:54,626 --> 00:13:58,429
+<i>I'm glad you're gonna be</i>
+<i>sticking around after today.</i>
+
+314
+00:13:58,496 --> 00:14:00,097
+Really?
+You want me to stay?
+
+315
+00:14:00,164 --> 00:14:01,431
+<i>It's good</i>
+<i>to add a different perspective</i>
+
+316
+00:14:01,499 --> 00:14:02,966
+to the department.
+
+317
+00:14:03,033 --> 00:14:04,534
+Someone who still remembers
+there are rules
+
+318
+00:14:04,602 --> 00:14:06,670
+other than House's.
+
+319
+00:14:06,738 --> 00:14:10,073
+If I don't play
+by House's rules,
+
+320
+00:14:10,141 --> 00:14:11,541
+he won't let me in.
+
+321
+00:14:11,609 --> 00:14:14,277
+Find a way around them.
+
+322
+00:14:14,345 --> 00:14:17,480
+I'd have to lie to him,
+which is still lying.
+
+323
+00:14:18,850 --> 00:14:19,883
+Lying about a lie,
+
+324
+00:14:19,951 --> 00:14:21,351
+that's practically telling
+the truth.
+
+325
+00:14:21,419 --> 00:14:22,619
+<i>Catheter's in.</i>
+
+326
+00:14:22,687 --> 00:14:24,354
+<i>Start the calcium channel</i>
+<i>blocker drip.</i>
+
+327
+00:14:24,421 --> 00:14:27,024
+Means I need another LP.
+<i>Luckily, I know</i>
+
+328
+00:14:27,091 --> 00:14:28,158
+where you can get one.
+
+329
+00:14:28,226 --> 00:14:30,761
+You good here?
+Let's go.
+
+330
+00:14:34,298 --> 00:14:36,300
+Mm.
+
+331
+00:14:36,367 --> 00:14:38,669
+Decent stick.
+Very smooth.
+
+332
+00:14:38,736 --> 00:14:42,974
+Sounds like you've had
+a few of these.
+
+333
+00:14:43,042 --> 00:14:44,876
+Suppose that comes
+with the territory.
+
+334
+00:14:44,944 --> 00:14:46,511
+I have Huntington's.
+
+335
+00:14:46,579 --> 00:14:48,814
+No need to get hushed
+and solemn about it.
+
+336
+00:14:51,350 --> 00:14:53,051
+Why are you lying
+about rehab?
+
+337
+00:14:53,119 --> 00:14:55,253
+Because the real reason
+I was gone
+
+338
+00:14:55,321 --> 00:14:57,322
+is not something
+I want to share.
+
+339
+00:14:57,390 --> 00:14:59,157
+Couldn't you just say that?
+
+340
+00:14:59,225 --> 00:15:02,227
+Should be enough
+for Foreman and the others.
+
+341
+00:15:02,295 --> 00:15:03,361
+How long
+have you worked here?
+
+342
+00:15:03,429 --> 00:15:05,430
+House's people
+have personalities
+
+343
+00:15:05,498 --> 00:15:08,399
+that range from nosy
+to "pardon me while I do
+
+344
+00:15:08,467 --> 00:15:10,501
+this cavity search."
+
+345
+00:15:10,569 --> 00:15:11,969
+Do you think there's room
+for someone
+
+346
+00:15:12,037 --> 00:15:14,005
+who does things differently?
+
+347
+00:15:17,543 --> 00:15:19,377
+No.
+
+348
+00:15:19,445 --> 00:15:23,348
+Not unless House decides
+that's what he wants.
+
+349
+00:15:26,185 --> 00:15:27,552
+<i>(Foreman)</i>
+<i>During catheter removal,</i>
+
+350
+00:15:27,620 --> 00:15:30,456
+<i>I got a good look</i>
+<i>at her cerebral midline.</i>
+
+351
+00:15:30,523 --> 00:15:31,790
+Pineal gland
+is calcified.
+
+352
+00:15:31,858 --> 00:15:33,425
+<i>(Thirteen)</i>
+<i>Case closed.</i>
+
+353
+00:15:33,492 --> 00:15:34,693
+I'll start her
+on hormone therapy.
+
+354
+00:15:34,760 --> 00:15:35,894
+Ship her out.
+
+355
+00:15:35,962 --> 00:15:38,463
+I handed in my log.
+
+356
+00:15:38,531 --> 00:15:41,768
+On your way to do that,
+
+357
+00:15:41,836 --> 00:15:45,238
+did you happen to stop
+and give Thirteen an LP?
+
+358
+00:15:45,306 --> 00:15:48,509
+<i>Thirteen's stiff gate,</i>
+<i>small pupils,</i>
+
+359
+00:15:48,577 --> 00:15:51,346
+and the raging headache
+she's hiding gave you away.
+
+360
+00:15:51,414 --> 00:15:55,317
+Yes.
+And I still broke a rule.
+
+361
+00:15:55,385 --> 00:15:57,220
+My rule.
+
+362
+00:15:57,287 --> 00:15:59,556
+Told you to defy <i>the man.</i>
+Not <i>this</i> man.
+
+363
+00:15:59,624 --> 00:16:02,425
+Why is it so wrong
+that I don't like to cheat?
+
+364
+00:16:04,061 --> 00:16:05,028
+Can we go?
+
+365
+00:16:05,095 --> 00:16:06,029
+No.
+
+366
+00:16:06,096 --> 00:16:07,664
+Not liking it is fine.
+
+367
+00:16:07,732 --> 00:16:10,000
+Not doing what you don't like
+makes you an eight-year-old.
+
+368
+00:16:10,068 --> 00:16:11,535
+<i>Wastes your potential.</i>
+
+369
+00:16:11,602 --> 00:16:13,469
+You want me to be like you.
+It's not going to happen.
+
+370
+00:16:13,537 --> 00:16:14,938
+<i>That's the last thing</i>
+<i>I want.</i>
+
+371
+00:16:15,005 --> 00:16:17,140
+'Cause then neither one of us
+would be exceptional.
+
+372
+00:16:19,442 --> 00:16:21,844
+- You think I'm exceptional?
+- Not anymore.
+
+373
+00:16:23,814 --> 00:16:26,015
+I can do my job
+without compromising.
+
+374
+00:16:27,317 --> 00:16:28,450
+No, you can't.
+
+375
+00:16:28,518 --> 00:16:30,152
+'Cause I'm not gonna let you.
+
+376
+00:16:30,219 --> 00:16:31,953
+Internship's gone.
+
+377
+00:16:34,223 --> 00:16:36,057
+It's time for Masters
+to say good-bye.
+
+378
+00:16:36,125 --> 00:16:38,460
+<i>Enjoy being a surgeon.</i>
+
+379
+00:16:38,528 --> 00:16:40,228
+You'll be fine.
+
+380
+00:16:48,336 --> 00:16:52,674
+[Alarm rings]
+
+381
+00:16:56,078 --> 00:16:58,414
+[Clears throat]
+
+382
+00:16:58,481 --> 00:17:01,717
+Surgery.
+
+383
+00:17:01,785 --> 00:17:03,286
+Anatomy.
+
+384
+00:17:03,354 --> 00:17:05,489
+Branches off
+the subclavian artery.
+
+385
+00:17:05,556 --> 00:17:07,824
+Vitamin C and D.
+V-I-T.
+
+386
+00:17:07,892 --> 00:17:11,729
+Vitamin. V: Vertebral.
+I: Internal carotid--
+
+387
+00:17:14,432 --> 00:17:18,201
+internal thoracic.
+Internal thoracic.
+
+388
+00:17:18,269 --> 00:17:21,672
+T: Thyrocervical.
+
+389
+00:17:21,739 --> 00:17:23,673
+C: Costocervical.
+
+390
+00:17:25,176 --> 00:17:26,310
+[Camera snaps]
+
+391
+00:17:32,318 --> 00:17:35,520
+Martha M. Masters.
+That's me.
+
+392
+00:17:35,588 --> 00:17:37,890
+I'm gonna be a surgeon.
+
+393
+00:17:37,958 --> 00:17:40,493
+Next.
+
+394
+00:17:43,431 --> 00:17:44,731
+Welcome
+to your surgical internship
+
+395
+00:17:44,799 --> 00:17:45,999
+at P.P.T.H.
+
+396
+00:17:46,067 --> 00:17:48,502
+The senior residents
+stand behind you.
+
+397
+00:17:48,570 --> 00:17:50,638
+We'll all get
+to know each other soon enough.
+
+398
+00:17:50,706 --> 00:17:52,440
+Grab a donut
+and get to work.
+
+399
+00:17:52,508 --> 00:17:53,741
+We're out of donuts.
+
+400
+00:17:53,809 --> 00:17:55,810
+Then, uh, get to work.
+
+401
+00:18:02,685 --> 00:18:05,421
+Little oozing.
+
+402
+00:18:05,489 --> 00:18:07,456
+Isolated the left subclavian.
+Suction.
+
+403
+00:18:07,524 --> 00:18:08,524
+You got to do better
+than that.
+
+404
+00:18:08,591 --> 00:18:09,692
+Can't see a thing.
+
+405
+00:18:11,761 --> 00:18:14,596
+Push calcium chloride.
+
+406
+00:18:16,366 --> 00:18:17,333
+<i>It will supercharge</i>
+
+407
+00:18:17,400 --> 00:18:18,500
+the platelets
+
+408
+00:18:18,568 --> 00:18:21,270
+and increase the clotting.
+
+409
+00:18:24,307 --> 00:18:26,275
+Two amps calcium chloride.
+
+410
+00:18:26,343 --> 00:18:27,810
+Tell the blood bank
+to set up three units
+
+411
+00:18:27,878 --> 00:18:28,778
+of packed red cells.
+
+412
+00:18:32,382 --> 00:18:34,117
+Field is clear.
+
+413
+00:18:34,184 --> 00:18:38,187
+Nice.
+
+414
+00:18:45,762 --> 00:18:47,430
+Generally speaking,
+
+415
+00:18:47,498 --> 00:18:49,265
+pledges aren't supposed
+to talk
+
+416
+00:18:49,333 --> 00:18:51,200
+unless they
+ask a question.
+
+417
+00:18:51,268 --> 00:18:53,269
+That's because,
+generally speaking,
+
+418
+00:18:53,336 --> 00:18:54,970
+pledges don't have
+anything to say.
+
+419
+00:18:59,342 --> 00:19:00,943
+Um, K.P.
+
+420
+00:19:01,011 --> 00:19:03,446
+Is that patient
+Kendall Pearson?
+
+421
+00:19:03,513 --> 00:19:04,813
+I thought
+she was discharged.
+
+422
+00:19:04,881 --> 00:19:06,348
+Mm.
+It's a House case.
+
+423
+00:19:06,416 --> 00:19:08,684
+I never know
+what that guy's up to.
+
+424
+00:19:08,751 --> 00:19:10,519
+I want you to scrub in
+on my lung harvest.
+
+425
+00:19:10,586 --> 00:19:13,154
+But it's my first day.
+
+426
+00:19:13,222 --> 00:19:14,989
+Yes, I know.
+I was there.
+
+427
+00:19:15,056 --> 00:19:16,457
+Be scrubbed and ready
+in 15 minutes.
+
+428
+00:19:43,951 --> 00:19:44,951
+What happened?
+
+429
+00:19:45,019 --> 00:19:47,154
+Last I heard,
+you were going home.
+
+430
+00:19:47,222 --> 00:19:49,256
+Kendall collapsed
+in the parking lot.
+
+431
+00:19:49,324 --> 00:19:50,791
+They're doing something
+
+432
+00:19:50,859 --> 00:19:53,761
+called a "sympathectomy."
+
+433
+00:19:53,829 --> 00:19:56,298
+She must've had
+a hypertensive crisis
+
+434
+00:19:56,366 --> 00:19:57,800
+caused by a neural
+overstimulation
+
+435
+00:19:57,867 --> 00:19:59,201
+in her kidneys.
+
+436
+00:19:59,269 --> 00:20:00,937
+So they're cutting
+the nerves.
+
+437
+00:20:01,004 --> 00:20:02,271
+It's like cutting
+the gas line
+
+438
+00:20:02,339 --> 00:20:04,240
+to an engine.
+
+439
+00:20:04,308 --> 00:20:07,043
+Yeah, sounds like
+what Dr. Taub said.
+
+440
+00:20:07,110 --> 00:20:08,778
+Said it's basic surgery,
+but...
+
+441
+00:20:08,845 --> 00:20:10,179
+It is.
+
+442
+00:20:10,247 --> 00:20:13,215
+You should still be on pace
+for a launch in 36 hours.
+
+443
+00:20:13,283 --> 00:20:16,551
+Her mom's
+packing the boat now.
+
+444
+00:20:16,619 --> 00:20:18,954
+I'm supposed to pick up
+some dry ice.
+
+445
+00:20:19,022 --> 00:20:21,023
+But...
+
+446
+00:20:21,090 --> 00:20:24,593
+Nothing you can do
+for her here.
+
+447
+00:20:31,034 --> 00:20:35,739
+[Sighs]
+Um...
+
+448
+00:20:35,807 --> 00:20:37,040
+We're just trying
+to help our daughter
+
+449
+00:20:37,108 --> 00:20:38,342
+reach her dream.
+
+450
+00:20:39,978 --> 00:20:42,579
+She's different.
+
+451
+00:20:42,647 --> 00:20:45,215
+So you have to be different.
+
+452
+00:20:48,686 --> 00:20:50,787
+I'll make sure she's okay.
+
+453
+00:20:52,490 --> 00:20:54,991
+Thanks.
+
+454
+00:20:55,059 --> 00:20:58,228
+[Pager beeps]
+
+455
+00:21:00,931 --> 00:21:02,565
+You can see
+the full lobular structure
+
+456
+00:21:02,633 --> 00:21:04,500
+of the left lung.
+[Gasps]
+
+457
+00:21:04,567 --> 00:21:06,035
+Bifurcate innominate artery.
+
+458
+00:21:06,103 --> 00:21:07,436
+I've never seen
+one of those before.
+
+459
+00:21:07,504 --> 00:21:09,338
+Hold this, Masters.
+
+460
+00:21:09,405 --> 00:21:10,672
+Rib spreaders.
+
+461
+00:21:10,740 --> 00:21:12,374
+You guys okay
+if I pull a circulating nurse?
+
+462
+00:21:12,441 --> 00:21:13,508
+We got a train wreck
+in O.R. ten.
+
+463
+00:21:13,576 --> 00:21:14,743
+You got it.
+
+464
+00:21:14,810 --> 00:21:16,243
+Proximal end attached.
+
+465
+00:21:18,614 --> 00:21:20,447
+Can someone take the retractors
+from me?
+
+466
+00:21:20,515 --> 00:21:21,615
+Not really.
+
+467
+00:21:21,683 --> 00:21:23,017
+I have
+to use the bathroom.
+
+468
+00:21:23,085 --> 00:21:25,453
+I know you're a rookie,
+but you got to be kidding.
+
+469
+00:21:25,520 --> 00:21:26,888
+I'm not.
+It can wait.
+
+470
+00:21:29,725 --> 00:21:31,058
+I'm gonna have an accident.
+
+471
+00:21:31,126 --> 00:21:32,994
+Next one in line,
+grab it.
+
+472
+00:21:41,803 --> 00:21:43,304
+- What's wrong?
+- Hypotension.
+
+473
+00:21:43,372 --> 00:21:44,305
+<i>Low cardiac output.</i>
+
+474
+00:21:44,372 --> 00:21:46,206
+Float the swan.
+
+475
+00:21:46,274 --> 00:21:48,341
+Don't you have
+your own surgery?
+
+476
+00:21:48,409 --> 00:21:50,543
+I took a break.
+I told them I had to pee.
+
+477
+00:21:50,611 --> 00:21:52,745
+You lied.
+
+478
+00:21:54,247 --> 00:21:55,948
+Small one.
+But it's a gateway lie.
+
+479
+00:21:56,015 --> 00:21:57,849
+I care about the patient.
+
+480
+00:21:57,917 --> 00:21:59,251
+Another lie.
+
+481
+00:21:59,318 --> 00:22:00,585
+<i>You care</i>
+<i>about being exceptional.</i>
+
+482
+00:22:00,653 --> 00:22:02,587
+I told her dad
+I was gonna take care of her.
+
+483
+00:22:02,655 --> 00:22:05,022
+A third lie.
+
+484
+00:22:05,090 --> 00:22:06,524
+Welcome
+to the slippery slope.
+
+485
+00:22:06,592 --> 00:22:08,192
+<i>(Taub)</i>
+<i>Ra is 8.</i>
+
+486
+00:22:08,260 --> 00:22:09,594
+Equalization of pressures.
+
+487
+00:22:09,661 --> 00:22:11,629
+Means she has restrictive
+pericarditis.
+
+488
+00:22:11,697 --> 00:22:13,698
+Add that to a calcified
+pineal gland.
+
+489
+00:22:13,765 --> 00:22:15,199
+<i>(House)</i>
+<i>When is a calcified</i>
+<i>pineal gland</i>
+
+490
+00:22:15,267 --> 00:22:16,934
+not a calcified
+
+491
+00:22:17,002 --> 00:22:18,870
+<i>pineal gland?</i>
+
+492
+00:22:18,937 --> 00:22:20,171
+I realize, technically,
+it's never, but--
+
+493
+00:22:20,238 --> 00:22:21,572
+when it's a granuloma.
+
+494
+00:22:21,640 --> 00:22:23,241
+It's Wegener's.
+We should start her on steroids.
+
+495
+00:22:23,308 --> 00:22:24,375
+<i>(Masters)</i>
+<i>But she had a high CK.</i>
+
+496
+00:22:24,443 --> 00:22:25,909
+Wegener's
+wouldn't explain the--
+
+497
+00:22:25,977 --> 00:22:27,344
+dehydration does.
+
+498
+00:22:27,412 --> 00:22:29,379
+<i>(Masters)</i>
+<i>Yes. But the calcified pineal</i>
+
+499
+00:22:29,447 --> 00:22:30,280
+could be sarcoidosis.
+
+500
+00:22:32,984 --> 00:22:35,085
+You had me
+at "I had to pee."
+
+501
+00:22:35,153 --> 00:22:37,053
+But Thirteen's right.
+
+502
+00:22:37,121 --> 00:22:39,222
+<i>Start her on three fold</i>
+<i>immunosuppressants.</i>
+
+503
+00:22:39,290 --> 00:22:40,690
+<i>Masters, if you want</i>
+<i>to fight me on this,</i>
+
+504
+00:22:40,758 --> 00:22:41,824
+<i>fill out a consult form</i>
+
+505
+00:22:41,892 --> 00:22:43,526
+so you can stick around.
+
+506
+00:22:43,594 --> 00:22:45,228
+Welcome back.
+
+507
+00:22:45,296 --> 00:22:48,031
+I'm not back!
+
+508
+00:22:48,099 --> 00:22:49,900
+I'll just be staying
+for this case.
+
+509
+00:22:54,640 --> 00:22:57,375
+You got really good
+at this lying thing.
+
+510
+00:23:05,854 --> 00:23:07,589
+Hope it was one hell
+of a whiz.
+
+511
+00:23:09,458 --> 00:23:10,992
+I ran into Dr. House.
+
+512
+00:23:11,059 --> 00:23:14,562
+He requested a surgical consult
+for his patient.
+
+513
+00:23:14,630 --> 00:23:17,698
+House never asks
+for a consult.
+
+514
+00:23:17,766 --> 00:23:19,267
+Something about this case,
+
+515
+00:23:19,335 --> 00:23:21,236
+he needed
+a little more help.
+
+516
+00:23:21,303 --> 00:23:23,304
+First day
+of your surgical internship,
+
+517
+00:23:23,372 --> 00:23:25,373
+you want to be loaned out
+to another department.
+
+518
+00:23:25,441 --> 00:23:27,742
+Interesting career move.
+
+519
+00:23:27,810 --> 00:23:29,811
+Drop the form
+by my office.
+
+520
+00:23:29,879 --> 00:23:31,179
+Don't stay away too long.
+
+521
+00:23:31,247 --> 00:23:33,648
+I'm already well on my way
+to forgetting you.
+
+522
+00:23:40,789 --> 00:23:41,989
+How about I take
+
+523
+00:23:42,057 --> 00:23:43,992
+both you lovely ladies
+out for a drink?
+
+524
+00:23:44,059 --> 00:23:46,894
+I'd love to.
+Except I think you're a cretin.
+
+525
+00:23:46,962 --> 00:23:48,696
+And the last time
+she was at a bar
+
+526
+00:23:48,764 --> 00:23:49,764
+<i>was ballet class.</i>
+
+527
+00:23:49,832 --> 00:23:50,999
+I didn't take--
+
+528
+00:23:52,434 --> 00:23:54,035
+Oh. [Snorts]
+That's funny.
+
+529
+00:23:54,103 --> 00:23:55,871
+<i>I'm gonna stay and run</i>
+<i>a few extra tests</i>
+
+530
+00:23:55,939 --> 00:23:57,506
+<i>on House's patient.</i>
+
+531
+00:23:57,574 --> 00:23:59,041
+<i>This one lab value</i>
+<i>doesn't make sense to me.</i>
+
+532
+00:23:59,108 --> 00:24:01,410
+You're back
+with House?
+
+533
+00:24:01,478 --> 00:24:04,147
+Mm. Just this one case.
+I'm not staying.
+
+534
+00:24:04,214 --> 00:24:06,549
+I would kill for a chance
+to work with him.
+
+535
+00:24:06,617 --> 00:24:10,553
+Like, literally skin you
+and wear you as a disguise.
+
+536
+00:24:43,587 --> 00:24:45,088
+[Chicken clucks]
+
+537
+00:25:19,325 --> 00:25:20,324
+[Door opens]
+
+538
+00:25:34,905 --> 00:25:37,740
+[Clucking noise]
+
+539
+00:25:37,808 --> 00:25:39,108
+[Exclaims]
+
+540
+00:25:39,176 --> 00:25:40,143
+[Door locks]
+
+541
+00:25:44,814 --> 00:25:48,017
+You want yours extra crispy
+or original recipe?
+
+542
+00:26:08,402 --> 00:26:10,703
+Chickens!
+
+543
+00:26:13,473 --> 00:26:15,207
+You ever get sick
+from poultry?
+
+544
+00:26:15,275 --> 00:26:17,877
+Um, a few months ago
+
+545
+00:26:17,944 --> 00:26:21,715
+<i>from this pheasant-in-a-can</i>
+<i>my dad got me as a joke.</i>
+
+546
+00:26:21,782 --> 00:26:22,882
+You think
+that's why I'm sick?
+
+547
+00:26:22,950 --> 00:26:24,050
+I think that can
+was chock-full
+
+548
+00:26:24,118 --> 00:26:26,787
+of a bacteria
+called salmonella enteritis.
+
+549
+00:26:26,855 --> 00:26:28,622
+Likes to hang out
+in the bones.
+
+550
+00:26:28,690 --> 00:26:29,690
+Let me know
+
+551
+00:26:29,758 --> 00:26:31,959
+if any of this is tender
+or painful.
+
+552
+00:26:32,027 --> 00:26:34,328
+Um, this bacteria thing,
+
+553
+00:26:34,396 --> 00:26:35,930
+is this good news or bad?
+
+554
+00:26:35,997 --> 00:26:37,431
+Well, if I'm right,
+
+555
+00:26:37,499 --> 00:26:40,702
+that means all you'll need
+are antibiotics.
+
+556
+00:26:40,769 --> 00:26:43,705
+And you'll be, uh,
+well, shipshape.
+
+557
+00:26:43,773 --> 00:26:46,040
+Sorry.
+Couldn't resist.
+
+558
+00:26:49,412 --> 00:26:53,147
+Did you always know
+that sailing was it for you?
+
+559
+00:26:53,215 --> 00:26:54,382
+That it was the right thing?
+
+560
+00:26:54,450 --> 00:26:57,485
+Didn't even start
+till I was ten.
+
+561
+00:26:57,553 --> 00:27:00,622
+And at first,
+I was not a fan.
+
+562
+00:27:00,690 --> 00:27:02,991
+Certainly there's plenty
+not to like about sailing.
+
+563
+00:27:03,059 --> 00:27:05,293
+But now that you're
+so into it...
+
+564
+00:27:05,361 --> 00:27:06,561
+Oh, no, there's still
+plenty of things
+
+565
+00:27:06,629 --> 00:27:08,163
+I hate about it.
+
+566
+00:27:08,230 --> 00:27:10,832
+I hate being wet.
+I hate being cold.
+
+567
+00:27:10,900 --> 00:27:12,734
+I hate eating nothing
+but freeze-dried food.
+
+568
+00:27:12,802 --> 00:27:15,069
+That is quite
+the endorsement.
+
+569
+00:27:15,137 --> 00:27:16,771
+Sailing is amazing.
+
+570
+00:27:16,839 --> 00:27:19,773
+But doesn't mean I love
+every second on the boat.
+
+571
+00:27:19,841 --> 00:27:21,875
+Doing what you love
+means dealing
+
+572
+00:27:21,943 --> 00:27:23,810
+with things you don't.
+
+573
+00:27:23,878 --> 00:27:25,278
+If there were nothing
+to overcome,
+
+574
+00:27:25,345 --> 00:27:26,979
+it might not be that--
+[Winces]
+
+575
+00:27:27,047 --> 00:27:28,114
+Ow.
+
+576
+00:27:33,420 --> 00:27:36,088
+Salmonella enteritis
+is a nice catch.
+
+577
+00:27:36,156 --> 00:27:38,057
+Thanks. Starting
+on the soft tissue windows.
+
+578
+00:27:40,428 --> 00:27:42,129
+<i>Once this case is over,</i>
+<i>you going back to surgery?</i>
+
+579
+00:27:42,196 --> 00:27:44,632
+That's the plan.
+
+580
+00:27:46,402 --> 00:27:48,670
+I think that's a mistake.
+
+581
+00:27:48,738 --> 00:27:50,405
+I think you should go back
+to surgery.
+
+582
+00:27:50,473 --> 00:27:53,575
+I just said I was.
+
+583
+00:27:53,643 --> 00:27:56,178
+No. You said
+it was your plan.
+
+584
+00:27:56,246 --> 00:27:58,246
+Which means House
+might be right.
+
+585
+00:27:58,314 --> 00:28:01,984
+And you might be lying
+to yourself.
+
+586
+00:28:02,052 --> 00:28:03,885
+Would it be so terrible?
+
+587
+00:28:03,953 --> 00:28:06,021
+You chose House
+over surgery.
+
+588
+00:28:06,088 --> 00:28:07,656
+My time here changed me
+
+589
+00:28:07,723 --> 00:28:11,493
+in ways not everyone in my life
+thought was for the better.
+
+590
+00:28:11,561 --> 00:28:13,728
+No masses.
+Moving on to bone windows.
+
+591
+00:28:19,035 --> 00:28:20,736
+Are those people right?
+
+592
+00:28:23,573 --> 00:28:25,608
+I think when you do change,
+
+593
+00:28:25,675 --> 00:28:27,409
+it's not so simple
+to go back.
+
+594
+00:28:29,279 --> 00:28:30,479
+There.
+
+595
+00:28:30,547 --> 00:28:33,082
+<i>In the humerus.</i>
+
+596
+00:28:34,852 --> 00:28:37,153
+Doesn't look like
+an infection.
+
+597
+00:28:37,221 --> 00:28:39,188
+That's because it looks
+like cancer.
+
+598
+00:28:50,502 --> 00:28:53,604
+You have lymphoid sarcoma.
+
+599
+00:28:53,671 --> 00:28:55,639
+A cancer in the bone
+in your arm.
+
+600
+00:28:59,645 --> 00:29:00,845
+Am I going to be okay?
+
+601
+00:29:00,913 --> 00:29:03,315
+It's a treatable cancer.
+
+602
+00:29:03,382 --> 00:29:05,550
+But part
+of that treatment
+
+603
+00:29:05,618 --> 00:29:07,052
+involves amputating
+your arm.
+
+604
+00:29:07,120 --> 00:29:09,021
+I'm sorry.
+
+605
+00:29:09,088 --> 00:29:11,056
+There's nothing else?
+
+606
+00:29:13,727 --> 00:29:15,961
+We can do chemo and radiation
+
+607
+00:29:16,029 --> 00:29:17,295
+after the amputation.
+
+608
+00:29:17,363 --> 00:29:19,964
+I don't mean after.
+I mean instead of.
+
+609
+00:29:20,032 --> 00:29:21,432
+If I leave soon,
+I still have time
+
+610
+00:29:21,500 --> 00:29:22,700
+to break the record.
+
+611
+00:29:22,768 --> 00:29:24,702
+Honey,
+you can't be serious.
+
+612
+00:29:24,770 --> 00:29:26,037
+I feel fine.
+
+613
+00:29:26,105 --> 00:29:27,705
+Last night, they thought
+it was an infection.
+
+614
+00:29:27,773 --> 00:29:28,907
+We know it's cancer.
+
+615
+00:29:28,974 --> 00:29:30,441
+We ran the biopsy
+three times.
+
+616
+00:29:30,509 --> 00:29:32,009
+<i>You don't know</i>
+
+617
+00:29:32,077 --> 00:29:33,444
+how fast--
+postponing the surgery
+
+618
+00:29:33,512 --> 00:29:35,513
+could increase the likelihood
+that the cancer will spread.
+
+619
+00:29:35,580 --> 00:29:37,882
+Kendall, you need to think
+about what the doctor's saying.
+
+620
+00:29:37,949 --> 00:29:38,916
+I'm thinking
+
+621
+00:29:38,984 --> 00:29:40,484
+about the sail.
+
+622
+00:29:40,552 --> 00:29:41,953
+Like I have
+since I was ten.
+
+623
+00:29:42,020 --> 00:29:43,821
+Don't take this
+away from me.
+
+624
+00:29:43,889 --> 00:29:45,991
+It's just a month.
+
+625
+00:29:46,058 --> 00:29:47,959
+<i>I can take extra</i>
+<i>precautions.</i>
+
+626
+00:29:48,027 --> 00:29:49,361
+I'll Skype you every day
+and I can fly back
+
+627
+00:29:49,429 --> 00:29:50,395
+if something goes wrong.
+
+628
+00:29:50,463 --> 00:29:51,897
+She'll be risking her life.
+
+629
+00:29:51,965 --> 00:29:54,299
+I think we need
+to discuss this as a family.
+
+630
+00:29:57,704 --> 00:29:58,704
+You're considering this?
+
+631
+00:30:02,208 --> 00:30:03,442
+Your daughter's condition--
+
+632
+00:30:03,509 --> 00:30:06,445
+Thank you, Dr. Masters.
+
+633
+00:30:34,240 --> 00:30:37,375
+She's not budging.
+She wants to launch tomorrow.
+
+634
+00:30:37,443 --> 00:30:38,777
+She's a minor.
+
+635
+00:30:38,845 --> 00:30:42,180
+You sign the consent form,
+we can do the surgery.
+
+636
+00:30:42,248 --> 00:30:44,817
+Amputation can be an emo--
+
+637
+00:30:44,884 --> 00:30:47,287
+She's talked my wife
+into agreeing with her.
+
+638
+00:30:49,323 --> 00:30:51,291
+One parent's signature
+is enough.
+
+639
+00:30:56,598 --> 00:30:58,231
+She needs you
+to be a parent.
+
+640
+00:30:58,299 --> 00:31:01,167
+You're asking me
+to blow up my family.
+
+641
+00:31:01,235 --> 00:31:04,003
+I'm asking you
+to save your family.
+
+642
+00:31:06,406 --> 00:31:07,739
+On her first solo
+Atlantic crossing,
+
+643
+00:31:07,807 --> 00:31:10,675
+she scheduled a court date
+
+644
+00:31:10,743 --> 00:31:12,010
+to become
+an emancipated minor.
+
+645
+00:31:13,912 --> 00:31:17,615
+She'll do it again
+and she'll win.
+
+646
+00:31:20,051 --> 00:31:21,185
+She is gonna do
+what she's gonna do
+
+647
+00:31:21,252 --> 00:31:22,853
+with or without me.
+
+648
+00:31:25,357 --> 00:31:27,258
+I'd rather have it
+be with.
+
+649
+00:31:45,478 --> 00:31:47,713
+I'm stuck.
+
+650
+00:31:47,781 --> 00:31:49,315
+No, you're not.
+
+651
+00:31:49,382 --> 00:31:51,651
+Case is over.
+You're back to surgery.
+
+652
+00:31:54,355 --> 00:31:56,957
+And fetch.
+
+653
+00:31:57,025 --> 00:31:59,426
+<i>Oh, that's a good boy.</i>
+
+654
+00:31:59,494 --> 00:32:01,028
+Oh, that's a good boy.
+
+655
+00:32:01,095 --> 00:32:02,796
+Hey, good boy.
+
+656
+00:32:04,599 --> 00:32:06,066
+<i>No one will stop</i>
+<i>Kendall's sail.</i>
+
+657
+00:32:06,134 --> 00:32:07,534
+You need to step in.
+
+658
+00:32:07,602 --> 00:32:09,937
+Sign on the door
+says I'm a diagnostician.
+
+659
+00:32:10,004 --> 00:32:11,439
+Cool diagnosis
+means I'm finished.
+
+660
+00:32:11,506 --> 00:32:13,507
+She could die.
+
+661
+00:32:13,575 --> 00:32:15,576
+Pretty sure the law
+of the land states
+
+662
+00:32:15,644 --> 00:32:18,012
+that everyone has the right
+to be an idiot.
+
+663
+00:32:18,080 --> 00:32:19,581
+I think it's the second
+amendment. Fetch!
+
+664
+00:32:21,751 --> 00:32:23,852
+<i>Bring it here, boy.</i>
+
+665
+00:32:23,919 --> 00:32:26,488
+<i>Who's a good boy?</i>
+
+666
+00:32:26,555 --> 00:32:29,557
+You are constantly railing
+against hypocrisy,
+
+667
+00:32:29,625 --> 00:32:31,159
+forcing people
+to face the truth.
+
+668
+00:32:31,227 --> 00:32:33,361
+This time nothing?
+
+669
+00:32:33,429 --> 00:32:35,697
+Yeah.
+'Cause they faced the truth.
+
+670
+00:32:35,764 --> 00:32:37,031
+And made a decision
+
+671
+00:32:37,099 --> 00:32:39,967
+that will in all likelihood
+kill their daughter.
+
+672
+00:32:40,035 --> 00:32:43,104
+I'm fine with that.
+
+673
+00:32:43,172 --> 00:32:45,740
+<i>I wanted a diagnosis.</i>
+<i>I got it.</i>
+
+674
+00:32:45,807 --> 00:32:48,310
+What do you want?
+
+675
+00:32:48,377 --> 00:32:50,646
+I don't want her to die.
+
+676
+00:32:50,713 --> 00:32:53,416
+Break the rules.
+
+677
+00:32:55,085 --> 00:32:57,019
+I can't.
+
+678
+00:32:59,423 --> 00:33:01,758
+So coloring inside the lines
+is more important to you
+
+679
+00:33:01,826 --> 00:33:03,727
+than saving this girl's life?
+
+680
+00:33:05,563 --> 00:33:07,231
+<i>I was wrong</i>
+<i>about one thing,</i>
+
+681
+00:33:07,299 --> 00:33:10,168
+you are not exceptional.
+
+682
+00:33:10,236 --> 00:33:13,505
+<i>And fetch!</i>
+
+683
+00:33:13,573 --> 00:33:15,608
+<i>Ho ho ho.</i>
+<i>Oh, that's a good boy.</i>
+
+684
+00:33:15,676 --> 00:33:20,680
+<i>Good boy. Good boy.</i>
+
+685
+00:33:20,747 --> 00:33:22,114
+[Knocking at door]
+
+686
+00:33:22,182 --> 00:33:23,316
+Dr. Wilson.
+
+687
+00:33:23,383 --> 00:33:25,485
+<i>Um, I'd like</i>
+<i>to get your advice</i>
+
+688
+00:33:25,553 --> 00:33:27,454
+about a cancer patient.
+
+689
+00:33:27,521 --> 00:33:30,190
+Kendall Pearson.
+Oncology rounds.
+
+690
+00:33:30,257 --> 00:33:32,592
+Everyone's talking about it.
+[Winces]
+
+691
+00:33:32,659 --> 00:33:34,193
+Are you okay?
+
+692
+00:33:34,261 --> 00:33:36,495
+Yeah, my back's acting up.
+
+693
+00:33:36,563 --> 00:33:39,431
+Oh. Um...
+
+694
+00:33:39,499 --> 00:33:42,167
+So what would you do?
+
+695
+00:33:42,235 --> 00:33:44,135
+I would keep trying
+to convince her
+
+696
+00:33:44,203 --> 00:33:45,503
+to have the surgery.
+
+697
+00:33:45,571 --> 00:33:48,273
+And if she kept saying no?
+
+698
+00:33:48,341 --> 00:33:50,275
+I would just keep--
+[Winces]
+
+699
+00:33:50,343 --> 00:33:52,177
+Keep--keep trying.
+
+700
+00:33:54,647 --> 00:33:55,981
+I know there's a chicken
+under there.
+
+701
+00:33:56,048 --> 00:33:57,682
+Oh, thank God.
+
+702
+00:33:57,750 --> 00:33:59,551
+<i>It's pecked through</i>
+
+703
+00:33:59,619 --> 00:34:02,287
+one pair of my loafers.
+
+704
+00:34:02,355 --> 00:34:05,124
+[Chicken clucks]
+
+705
+00:34:08,529 --> 00:34:09,562
+So that's all you'd do?
+
+706
+00:34:09,630 --> 00:34:11,965
+That's all you can do.
+
+707
+00:34:13,434 --> 00:34:14,301
+Is it?
+
+708
+00:34:16,004 --> 00:34:18,137
+[Chicken clucks]
+
+709
+00:34:25,078 --> 00:34:27,279
+Isn't that House's chicken?
+
+710
+00:34:27,346 --> 00:34:28,446
+Disgusting beasts.
+
+711
+00:34:28,514 --> 00:34:29,781
+I don't know why I ever agreed
+to this bet.
+
+712
+00:34:29,848 --> 00:34:31,115
+So call it off.
+
+713
+00:34:31,183 --> 00:34:33,484
+And lose $20?
+
+714
+00:34:33,552 --> 00:34:36,286
+Listen,
+House was in
+
+715
+00:34:36,354 --> 00:34:38,555
+the exact same situation
+Kendall's in.
+
+716
+00:34:38,623 --> 00:34:40,457
+He needed surgery,
+but he didn't want it.
+
+717
+00:34:40,524 --> 00:34:41,925
+Once he was in
+medically-induced coma,
+
+718
+00:34:41,993 --> 00:34:43,060
+his girlfriend signed
+
+719
+00:34:43,127 --> 00:34:45,061
+the consent form
+as his proxy.
+
+720
+00:34:45,129 --> 00:34:46,429
+They went ahead
+with the surgery
+
+721
+00:34:46,497 --> 00:34:47,497
+against his will.
+
+722
+00:34:47,565 --> 00:34:50,267
+Probably saved his life.
+
+723
+00:34:50,334 --> 00:34:53,003
+So she did the right thing?
+
+724
+00:34:53,071 --> 00:34:56,040
+Depends on who you ask.
+
+725
+00:34:57,743 --> 00:34:58,609
+<i>(House)</i>
+<i>Fetch!</i>
+
+726
+00:35:00,980 --> 00:35:03,014
+(Wilson)
+No! No!
+
+727
+00:35:11,258 --> 00:35:13,059
+<i>(Man)</i>
+<i>Excuse me.</i>
+
+728
+00:35:13,127 --> 00:35:14,694
+Who's responsible
+for this chicken?
+
+729
+00:35:14,762 --> 00:35:16,696
+<i>Does anyone know</i>
+
+730
+00:35:16,764 --> 00:35:17,998
+<i>who owns the chicken?</i>
+
+731
+00:35:18,065 --> 00:35:21,167
+That bird belongs to...
+
+732
+00:35:21,234 --> 00:35:24,570
+Dr. Gregory House.
+
+733
+00:35:24,638 --> 00:35:27,572
+[Chicken clucks]
+
+734
+00:36:01,939 --> 00:36:04,507
+You need
+to do this surgery.
+
+735
+00:36:04,575 --> 00:36:05,808
+I will.
+
+736
+00:36:05,876 --> 00:36:06,909
+Now.
+
+737
+00:36:06,977 --> 00:36:08,577
+We've been through this.
+
+738
+00:36:08,645 --> 00:36:10,245
+I'm leaving today.
+
+739
+00:36:10,313 --> 00:36:11,913
+It's a stupid record.
+
+740
+00:36:11,981 --> 00:36:13,648
+It's not about the record.
+
+741
+00:36:16,585 --> 00:36:18,720
+I used to race
+against other people.
+
+742
+00:36:18,788 --> 00:36:21,156
+I could have the slowest boat
+in the fleet and I'd win.
+
+743
+00:36:21,224 --> 00:36:23,592
+So it's about being better
+than everyone else?
+
+744
+00:36:23,660 --> 00:36:26,729
+It has nothing to do
+with anybody except me.
+
+745
+00:36:26,797 --> 00:36:31,000
+<i>The other racers</i>
+<i>would think I was crazy.</i>
+
+746
+00:36:31,068 --> 00:36:32,870
+<i>I'd set off on some</i>
+<i>tacking angle</i>
+
+747
+00:36:32,937 --> 00:36:34,104
+<i>that made no sense to them</i>
+
+748
+00:36:34,172 --> 00:36:39,276
+because they couldn't see
+what I saw.
+
+749
+00:36:39,344 --> 00:36:41,211
+I could sense the changes
+in the wind
+
+750
+00:36:41,279 --> 00:36:42,546
+before they even happened.
+
+751
+00:36:46,516 --> 00:36:49,518
+<i>At the top of the game,</i>
+<i>you play by different rules.</i>
+
+752
+00:36:56,624 --> 00:36:59,492
+Medicine's gonna burn
+a little bit.
+
+753
+00:37:14,176 --> 00:37:16,711
+[Pager beeps]
+
+754
+00:37:20,949 --> 00:37:22,683
+(Foreman)
+Bradycardic arrest.
+Third degree heart block.
+
+755
+00:37:22,751 --> 00:37:23,917
+Likely paraneoplastic
+syndrome.
+
+756
+00:37:23,985 --> 00:37:25,719
+<i>We need to get her</i>
+<i>to the O.R.</i>
+
+757
+00:37:25,787 --> 00:37:27,087
+For pacemaker
+or plasmapheresis.
+
+758
+00:37:27,155 --> 00:37:32,259
+[Alarm beeping]
+
+759
+00:37:32,327 --> 00:37:33,761
+What's going on?
+
+760
+00:37:33,828 --> 00:37:35,796
+The cancer is causing
+her heart to slow down.
+
+761
+00:37:35,864 --> 00:37:38,233
+We have to get her to the O.R.
+and treat her.
+
+762
+00:37:38,300 --> 00:37:39,901
+This is what
+I was worried about.
+
+763
+00:37:39,969 --> 00:37:41,837
+If this had happened at sea,
+she would be dead.
+
+764
+00:37:41,904 --> 00:37:43,572
+Oh, my God.
+
+765
+00:37:43,640 --> 00:37:46,609
+We need you to sign
+the consent form.
+
+766
+00:37:46,677 --> 00:37:49,412
+Authorize us
+to amputate her arm.
+
+767
+00:38:01,092 --> 00:38:04,393
+[Exhales]
+
+768
+00:38:09,466 --> 00:38:11,266
+(Chase)
+Subclavian access established.
+
+769
+00:38:11,334 --> 00:38:13,101
+Temporary pacer ready.
+<i>Don't need it.</i>
+
+770
+00:38:13,169 --> 00:38:14,168
+Push calcium chloride.
+
+771
+00:38:14,236 --> 00:38:15,136
+It'll fix the heart block.
+
+772
+00:38:17,406 --> 00:38:20,041
+Bradycardia was me.
+
+773
+00:38:20,109 --> 00:38:21,977
+You did this?
+
+774
+00:38:22,045 --> 00:38:26,683
+Parents signed
+the consent form.
+
+775
+00:38:26,750 --> 00:38:29,019
+Amputate her arm.
+
+776
+00:38:47,321 --> 00:38:48,488
+What happened?
+
+777
+00:38:53,459 --> 00:38:54,726
+You had a cardiac episode
+
+778
+00:38:54,794 --> 00:38:56,695
+that required us to bring you
+into the O.R.
+
+779
+00:38:56,763 --> 00:38:59,031
+<i>That crisis resolved,</i>
+<i>but--</i>
+
+780
+00:38:59,099 --> 00:39:01,967
+What did you do?
+What did you do?
+
+781
+00:39:02,035 --> 00:39:03,302
+<i>During surgery,</i>
+<i>we found cancer</i>
+
+782
+00:39:03,370 --> 00:39:05,070
+<i>in a lymph node</i>
+<i>in your neck.</i>
+
+783
+00:39:05,138 --> 00:39:06,973
+So you cut off my arm?
+<i>Cancer was already spreading.</i>
+
+784
+00:39:07,041 --> 00:39:08,374
+It had to be done.
+
+785
+00:39:08,442 --> 00:39:10,576
+[Crying] I told you
+I didn't want this.
+
+786
+00:39:10,644 --> 00:39:12,511
+<i>If we had waited</i>
+<i>until after the sail was over</i>
+
+787
+00:39:12,579 --> 00:39:15,147
+you would have died.
+
+788
+00:39:15,215 --> 00:39:18,517
+[Crying] That record.
+That was everything.
+
+789
+00:39:18,585 --> 00:39:20,486
+<i>(Bobby)</i>
+<i>It wasn't everything.</i>
+
+790
+00:39:20,554 --> 00:39:23,723
+You have a life.
+A future.
+
+791
+00:39:23,791 --> 00:39:25,291
+You weren't supposed to do this.
+How could you?
+
+792
+00:39:25,359 --> 00:39:26,726
+Because we love you.
+
+793
+00:39:28,596 --> 00:39:29,596
+I hate you.
+
+794
+00:39:29,663 --> 00:39:32,566
+I hate both of you.
+
+795
+00:39:32,633 --> 00:39:35,635
+Okay.
+
+796
+00:39:43,310 --> 00:39:45,111
+My arm.
+
+797
+00:39:59,192 --> 00:40:01,360
+My arm.
+
+798
+00:40:03,130 --> 00:40:07,967
+Dr. Masters, thank you.
+
+799
+00:40:18,278 --> 00:40:20,946
+[Alarm rings]
+
+800
+00:40:39,166 --> 00:40:42,401
+Someone has got
+their pouty face on.
+
+801
+00:40:42,469 --> 00:40:43,669
+I did things
+
+802
+00:40:43,736 --> 00:40:45,303
+no doctor in their right mind
+would do.
+
+803
+00:40:45,371 --> 00:40:46,938
+Good.
+
+804
+00:40:47,006 --> 00:40:50,141
+I manipulated,
+lied, forged, stole.
+
+805
+00:40:50,209 --> 00:40:51,576
+I don't want to know
+the specifics.
+
+806
+00:40:51,644 --> 00:40:52,777
+Might be called
+to testify.
+
+807
+00:40:58,984 --> 00:41:01,552
+I broke the rules
+because I believed I was right.
+
+808
+00:41:01,620 --> 00:41:03,087
+You were right.
+
+809
+00:41:03,155 --> 00:41:05,156
+Then why don't I feel good
+or satisfied?
+
+810
+00:41:05,224 --> 00:41:07,191
+Instead, I just feel
+like throwing up.
+
+811
+00:41:07,259 --> 00:41:09,961
+And you're following me to ask
+how I break the rules
+
+812
+00:41:10,028 --> 00:41:11,195
+and maintain
+my rosy demeanor.
+
+813
+00:41:11,263 --> 00:41:12,163
+[Knocks at door]
+
+814
+00:41:12,231 --> 00:41:13,531
+I didn't do it to be happy.
+
+815
+00:41:13,599 --> 00:41:17,101
+I just thought I would be.
+
+816
+00:41:17,169 --> 00:41:21,440
+You can't always get
+what you want.
+
+817
+00:41:21,507 --> 00:41:23,341
+To the victor
+of the spoils.
+
+818
+00:41:23,409 --> 00:41:25,877
+Your bird recover okay?
+
+819
+00:41:25,945 --> 00:41:27,112
+Physically, yes.
+
+820
+00:41:27,180 --> 00:41:29,982
+Emotionally,
+it was a long night.
+
+821
+00:41:30,050 --> 00:41:32,251
+Next week: Ferrets?
+
+822
+00:41:35,055 --> 00:41:36,655
+<i>House.</i>
+
+823
+00:41:39,492 --> 00:41:43,029
+I can't do it.
+
+824
+00:41:43,096 --> 00:41:45,131
+I'm leaving.
+
+825
+00:41:47,667 --> 00:41:49,467
+Surgery?
+
+826
+00:41:52,872 --> 00:41:55,373
+I...don't know
+what I'm going to do.
+
+827
+00:41:55,441 --> 00:41:57,910
+But I do know
+I don't want to be here.
+
+828
+00:42:07,888 --> 00:42:09,822
+Nothing will ever
+be simple again.
+
+829
+00:42:13,193 --> 00:42:15,060
+I'm fine with that.
+
+830
+00:42:18,531 --> 00:42:24,135
+♪ You can't always get
+what you want ♪
+
+831
+00:42:24,202 --> 00:42:27,338
+♪ and if you try sometime ♪
+
+832
+00:42:27,406 --> 00:42:29,573
+♪ you'll find ♪
+
+833
+00:42:29,641 --> 00:42:31,975
+♪ you'll get what you need ♪
+
+834
+00:42:32,043 --> 00:42:33,376
+[Chicken clucks]
+
+835
+00:42:36,414 --> 00:42:38,415
+[Laughs]
+
+836
+00:42:40,085 --> 00:42:43,988
+♪ You can't always get
+what you want ♪
+
+837
+00:42:45,891 --> 00:42:48,660
+♪ but if you try sometimes ♪
+
+838
+00:42:48,728 --> 00:42:51,063
+♪ well, you might find ♪
+
+839
+00:42:51,130 --> 00:42:53,599
+♪ you get what you need ♪
+
+840
+00:42:53,667 --> 00:42:54,633
+♪ oh, yeah ♪
+
+841
+00:42:54,658 --> 00:42:58,658
+== sync, corrected by <font color="#00ff00">elderman</font> ==
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

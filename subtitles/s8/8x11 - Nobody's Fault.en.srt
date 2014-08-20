@@ -1,0 +1,3731 @@
+1
+00:00:02,000 --> 00:00:06,000
+<font color=#00FF00>♪ House 8x11 ♪</font>
+<font color=#00FFFF>Nobody's Fault</font>
+Original air date on February 6, 2012
+
+2
+00:00:06,025 --> 00:00:10,025
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+3
+00:00:18,151 --> 00:00:19,338
+<i>(Taub)</i>
+<i>Pressure. I need pressure.</i>
+
+4
+00:00:19,339 --> 00:00:20,306
+<i>(Adams)</i>
+<i>Get me sutures on a Kelly.</i>
+
+5
+00:00:20,373 --> 00:00:22,041
+<i>(Taub)</i>
+<i>Need an EPI.</i>
+
+6
+00:00:22,109 --> 00:00:23,192
+<i>(Adams) Get O.R. Ten unpacked.</i>
+<i>Alert trauma.</i>
+
+7
+00:01:09,756 --> 00:01:11,590
+[Recorder beeps]
+
+8
+00:01:15,512 --> 00:01:17,980
+Let the record show
+that we are officially convening
+
+9
+00:01:18,064 --> 00:01:20,816
+a disciplinary hearing
+regarding the events
+
+10
+00:01:20,901 --> 00:01:24,336
+of February 3, 2012
+in patient room 209.
+
+11
+00:01:24,404 --> 00:01:26,906
+Dr. House, this recording
+will be transcribed
+
+12
+00:01:26,973 --> 00:01:28,073
+and published along with
+
+13
+00:01:28,141 --> 00:01:31,043
+all supporting documentation
+and rulings.
+
+14
+00:01:31,111 --> 00:01:34,480
+Do you have any questions
+before we get started?
+
+15
+00:01:34,548 --> 00:01:35,981
+Yeah.
+
+16
+00:01:36,049 --> 00:01:37,616
+Who the hell are you?
+
+17
+00:01:39,652 --> 00:01:42,288
+I'm Walter Cofield,
+Chief of Neurology,
+
+18
+00:01:42,339 --> 00:01:43,756
+Mercy Hospital.
+
+19
+00:01:43,823 --> 00:01:45,257
+I'll be deciding
+your fate today.
+
+20
+00:01:54,634 --> 00:01:57,436
+Cofield.
+
+21
+00:01:57,503 --> 00:01:59,688
+You were the Residency Director
+at Hopkins
+
+22
+00:01:59,773 --> 00:02:01,040
+before you moved to Mercy,
+
+23
+00:02:01,107 --> 00:02:02,391
+<i>which means it's safe</i>
+<i>to assume</i>
+
+24
+00:02:02,475 --> 00:02:03,709
+<i>that you trained Foreman.</i>
+
+25
+00:02:03,777 --> 00:02:04,977
+Which means it's also safe
+to assume
+
+26
+00:02:05,028 --> 00:02:06,528
+that he trusts you.
+
+27
+00:02:06,613 --> 00:02:07,780
+This hearing isn't about me,
+Dr. House.
+
+28
+00:02:07,847 --> 00:02:09,014
+I know you'd like
+to make it about me,
+
+29
+00:02:09,065 --> 00:02:11,200
+because then it wouldn't be
+about you.
+
+30
+00:02:11,284 --> 00:02:12,701
+<i>It's interesting</i>
+
+31
+00:02:12,786 --> 00:02:15,654
+that he'd pick the old mentor
+to judge the new one.
+
+32
+00:02:15,705 --> 00:02:17,206
+Interesting,
+but not relevant.
+
+33
+00:02:17,290 --> 00:02:19,174
+The facts of this case,
+on the other hand--
+
+34
+00:02:19,242 --> 00:02:21,844
+the facts are in the file.
+
+35
+00:02:21,912 --> 00:02:24,046
+If you have trouble reading
+my handwriting,
+
+36
+00:02:24,130 --> 00:02:25,197
+give me a call.
+
+37
+00:02:25,248 --> 00:02:27,666
+I'm going back to work.
+
+38
+00:02:27,717 --> 00:02:29,534
+If I just consider the file,
+
+39
+00:02:29,586 --> 00:02:31,887
+<i>the facts</i>
+<i>aren't in your favor.</i>
+
+40
+00:02:31,972 --> 00:02:34,673
+The facts say
+you should be suspended,
+
+41
+00:02:34,741 --> 00:02:36,759
+which,
+from what I understand,
+
+42
+00:02:36,826 --> 00:02:39,378
+would mean a revocation
+of your parole.
+
+43
+00:02:57,697 --> 00:03:01,066
+The patient was a 32-year-old
+high school chemistry teacher.
+
+44
+00:03:01,117 --> 00:03:03,369
+He collapsed while out jogging.
+
+45
+00:03:03,420 --> 00:03:05,337
+He was paralyzed
+in all four extremities
+
+46
+00:03:05,405 --> 00:03:06,772
+despite the fact
+that the scans...
+
+47
+00:03:06,840 --> 00:03:09,875
+Show no sign of stroke
+or structural lesions.
+
+48
+00:03:09,926 --> 00:03:12,077
+Put out an APB for a car
+
+49
+00:03:12,128 --> 00:03:14,129
+with a man-shaped dent
+in the grill?
+
+50
+00:03:14,214 --> 00:03:16,265
+No broken bones,
+no signs of trauma.
+
+51
+00:03:16,349 --> 00:03:18,183
+Transverse myelitis.
+
+52
+00:03:18,251 --> 00:03:19,685
+Boring.
+
+53
+00:03:19,752 --> 00:03:21,804
+No enhancement on the MRI.
+
+54
+00:03:21,888 --> 00:03:23,305
+I just don't know
+what to do.
+
+55
+00:03:23,390 --> 00:03:27,559
+Please, you have
+to help me solve this thing.
+
+56
+00:03:27,610 --> 00:03:30,612
+[Angelic chorus]
+
+57
+00:03:30,697 --> 00:03:31,763
+♪
+
+58
+00:03:33,400 --> 00:03:36,268
+A little poetic license.
+
+59
+00:03:36,336 --> 00:03:38,153
+What are you doing?
+
+60
+00:03:38,238 --> 00:03:40,939
+Taking my vic-amins.
+
+61
+00:03:40,991 --> 00:03:42,291
+<i>Those are Vicodin?</i>
+
+62
+00:03:42,359 --> 00:03:44,159
+Did you have surgery
+recently?
+
+63
+00:03:44,244 --> 00:03:45,944
+About a decade ago.
+
+64
+00:03:46,012 --> 00:03:48,630
+My leg is no good
+at judging time.
+
+65
+00:03:48,715 --> 00:03:51,450
+Were you taking Vicodin
+during this case?
+
+66
+00:03:51,501 --> 00:03:53,118
+Uhh...
+
+67
+00:03:53,186 --> 00:03:54,336
+Yes.
+
+68
+00:03:57,407 --> 00:04:02,928
+And during about nine years
+of previous cases.
+
+69
+00:04:02,979 --> 00:04:04,930
+My process is proven.
+
+70
+00:04:04,981 --> 00:04:07,232
+Good things usually happen.
+
+71
+00:04:07,300 --> 00:04:09,018
+Bad things sometimes happen.
+
+72
+00:04:09,102 --> 00:04:12,738
+And when bad things happen,
+
+73
+00:04:12,805 --> 00:04:14,306
+we should figure out
+what went wrong,
+
+74
+00:04:14,357 --> 00:04:16,641
+so we can learn from it
+and correct it.
+
+75
+00:04:16,693 --> 00:04:18,077
+<i>So that we can</i>
+<i>assign blame</i>
+
+76
+00:04:18,144 --> 00:04:19,578
+<i>instead of recognizing</i>
+
+77
+00:04:19,645 --> 00:04:22,531
+that bad things
+sometimes happen.
+
+78
+00:04:25,118 --> 00:04:28,120
+It was nobody's fault.
+
+79
+00:04:28,188 --> 00:04:30,789
+[Writing]
+
+80
+00:04:30,840 --> 00:04:32,124
+And then what happened?
+
+81
+00:04:34,010 --> 00:04:36,628
+Those who can, do.
+
+82
+00:04:36,679 --> 00:04:38,663
+Those who can't, teach.
+
+83
+00:04:38,715 --> 00:04:40,966
+Those who can't teach,
+teach gym.
+
+84
+00:04:41,017 --> 00:04:43,852
+Those who can't move
+their arms or legs
+
+85
+00:04:43,937 --> 00:04:45,771
+<i>teach us to laugh</i>
+<i>at others.</i>
+
+86
+00:04:45,838 --> 00:04:47,439
+House actually presented
+the case in that way,
+
+87
+00:04:47,507 --> 00:04:50,809
+or are you just trying
+to make him look bad?
+
+88
+00:04:50,860 --> 00:04:53,562
+Why would I be trying
+to make him look bad?
+
+89
+00:04:53,646 --> 00:04:55,781
+Could be your
+not-so-subtle way of implying
+
+90
+00:04:55,848 --> 00:04:58,283
+this was House's fault.
+
+91
+00:04:58,351 --> 00:05:00,018
+Given what's happened,
+it's understandable
+
+92
+00:05:00,070 --> 00:05:01,686
+that your opinion
+would color your testimony,
+
+93
+00:05:01,738 --> 00:05:03,739
+but I just want to know
+what you said, what you did,
+
+94
+00:05:03,823 --> 00:05:07,242
+and what you were thinking
+at the time.
+
+95
+00:05:07,327 --> 00:05:12,030
+I don't think
+it was his fault.
+
+96
+00:05:12,082 --> 00:05:15,300
+Just tell me
+your initial theory.
+
+97
+00:05:15,368 --> 00:05:16,802
+I thought the patient
+had a liver problem.
+
+98
+00:05:16,869 --> 00:05:19,505
+Hepatic encephalopathy
+explained why he passed out,
+
+99
+00:05:19,556 --> 00:05:21,723
+why he couldn't move
+his limbs.
+
+100
+00:05:21,808 --> 00:05:24,593
+But that's not the idea
+House went with.
+
+101
+00:05:24,677 --> 00:05:27,596
+He thought Taub's idea
+was stupid.
+
+102
+00:05:27,680 --> 00:05:29,181
+<i>And what about your idea?</i>
+
+103
+00:05:29,232 --> 00:05:30,766
+He thought
+that was stupid too.
+
+104
+00:05:30,850 --> 00:05:32,384
+[Chuckles]
+
+105
+00:05:32,435 --> 00:05:34,103
+No, I meant,
+what was it?
+
+106
+00:05:34,187 --> 00:05:37,739
+Oh. I thought the patient had
+normal pressure hydrocephalus.
+
+107
+00:05:37,824 --> 00:05:39,741
+And why did House think
+that was stupid?
+
+108
+00:05:39,826 --> 00:05:42,077
+<i>(House)</i>
+<i>Oh, come on.</i>
+
+109
+00:05:42,162 --> 00:05:43,412
+<i>Unless you're an idiot,</i>
+
+110
+00:05:43,496 --> 00:05:46,198
+<i>you know why I thought</i>
+<i>Park was an idiot.</i>
+
+111
+00:05:46,249 --> 00:05:49,568
+The patient had low
+opening pressure on his LP.
+
+112
+00:05:49,619 --> 00:05:51,286
+That's what I said.
+
+113
+00:05:51,371 --> 00:05:52,788
+No, you idiot.
+
+114
+00:05:52,872 --> 00:05:55,874
+The patient had low
+opening pressure on his LP.
+
+115
+00:05:55,925 --> 00:05:59,144
+Try unsquinting your eyes
+and reading the labs next time.
+
+116
+00:05:59,212 --> 00:06:00,412
+Are you intentionally
+trying to get me
+
+117
+00:06:00,463 --> 00:06:01,613
+to dislike you?
+
+118
+00:06:01,681 --> 00:06:03,882
+That wasn't me.
+The chair squeaked.
+
+119
+00:06:03,933 --> 00:06:05,267
+<i>You're testifying,</i>
+<i>for the record,</i>
+
+120
+00:06:05,351 --> 00:06:08,420
+that you actually used the
+phrasing "unsquint your eyes"?
+
+121
+00:06:08,488 --> 00:06:10,556
+It's not the place
+to exorcise your guilt.
+
+122
+00:06:10,607 --> 00:06:13,108
+I actually used the phrasing
+
+123
+00:06:13,193 --> 00:06:16,562
+"unsquint your eyes".
+
+124
+00:06:19,782 --> 00:06:20,932
+He's hypokalemic.
+
+125
+00:06:20,984 --> 00:06:22,284
+Could indicate a problem
+with his heart,
+
+126
+00:06:22,368 --> 00:06:24,436
+which would--
+- EKG was normal.
+
+127
+00:06:24,487 --> 00:06:26,622
+But Chase, a doctor
+who actually takes the time
+
+128
+00:06:26,706 --> 00:06:28,540
+to read the lab reports,
+has a point.
+
+129
+00:06:28,608 --> 00:06:30,492
+The guy's potassium
+is off.
+
+130
+00:06:30,577 --> 00:06:32,828
+<i>Could be thyrotoxic paralysis.</i>
+<i>Start him on...</i>
+
+131
+00:06:32,912 --> 00:06:35,647
+Steroids, PTU,
+and beta blockers.
+
+132
+00:06:35,715 --> 00:06:38,150
+Mm-hmm.
+
+133
+00:06:38,218 --> 00:06:43,655
+And how did these orange smudges
+get on the patient files?
+
+134
+00:06:43,723 --> 00:06:45,057
+Seriously?
+
+135
+00:06:45,124 --> 00:06:48,460
+That's your follow-up?
+
+136
+00:06:48,511 --> 00:06:51,480
+I eat a lot of cheetos,
+I forget to wash my hands.
+
+137
+00:06:51,564 --> 00:06:54,132
+Is my snacking really relevant
+to this case?
+
+138
+00:06:54,184 --> 00:06:57,986
+Might be, if these
+were actually cheetos' stains.
+
+139
+00:06:58,071 --> 00:06:59,938
+What are they?
+
+140
+00:07:06,446 --> 00:07:09,498
+Seriously, House?
+
+141
+00:07:09,582 --> 00:07:10,815
+You're blaming me?
+
+142
+00:07:10,867 --> 00:07:14,086
+You used Adams' shampoo.
+
+143
+00:07:14,153 --> 00:07:16,255
+I didn't do it.
+
+144
+00:07:18,157 --> 00:07:20,692
+(House)
+It was a harmless prank.
+
+145
+00:07:20,760 --> 00:07:23,195
+My team is made up
+of Type-A personalities.
+
+146
+00:07:23,263 --> 00:07:25,030
+They need something
+to break the tension
+
+147
+00:07:25,098 --> 00:07:26,832
+every once in a while.
+
+148
+00:07:26,900 --> 00:07:28,300
+So this was
+a team-building exercise?
+
+149
+00:07:28,368 --> 00:07:30,102
+Is that what he called it?
+
+150
+00:07:30,169 --> 00:07:31,904
+That's what he implied.
+
+151
+00:07:31,971 --> 00:07:34,706
+House prefers chaos
+over cohesion.
+
+152
+00:07:34,774 --> 00:07:37,142
+He believes
+that disagreement and mistrust
+
+153
+00:07:37,193 --> 00:07:39,545
+lead to better ideas.
+
+154
+00:07:39,612 --> 00:07:41,079
+He's not wrong.
+
+155
+00:07:41,147 --> 00:07:43,982
+As opposed to being right?
+
+156
+00:07:45,818 --> 00:07:47,452
+So you treated
+with steroids.
+
+157
+00:07:47,520 --> 00:07:49,204
+- And then what happened?
+- They worked.
+
+158
+00:07:49,289 --> 00:07:50,789
+(Adams)
+Our patient woke up.
+
+159
+00:07:50,856 --> 00:07:52,691
+Bill?
+
+160
+00:07:52,742 --> 00:07:53,792
+Can you hear me?
+
+161
+00:07:53,859 --> 00:07:55,661
+Yeah.
+
+162
+00:07:55,712 --> 00:07:57,412
+I'm thirsty.
+
+163
+00:07:57,497 --> 00:07:58,630
+That's normal.
+
+164
+00:07:58,698 --> 00:08:00,532
+You've been in a coma
+for several hours.
+
+165
+00:08:00,583 --> 00:08:02,134
+Can you tell me your name?
+
+166
+00:08:02,201 --> 00:08:03,368
+Uh, Bill.
+
+167
+00:08:03,419 --> 00:08:05,804
+Bill Koppelman.
+
+168
+00:08:05,871 --> 00:08:07,389
+Can you tell me
+what happened to me?
+
+169
+00:08:07,473 --> 00:08:09,174
+<i>We're treating you</i>
+<i>for an overactive thyroid.</i>
+
+170
+00:08:09,225 --> 00:08:11,310
+We think that's why you
+passed out and couldn't move.
+
+171
+00:08:11,377 --> 00:08:12,544
+Can you wiggle
+your fingers for me?
+
+172
+00:08:14,597 --> 00:08:16,098
+Is he going to be
+okay?
+
+173
+00:08:16,182 --> 00:08:18,350
+Excuse me, but only
+family members are allowed.
+
+174
+00:08:18,401 --> 00:08:20,552
+It's okay.
+
+175
+00:08:20,603 --> 00:08:22,988
+<i>They're my students.</i>
+
+176
+00:08:23,055 --> 00:08:25,574
+Everyone back at school
+is so worried about you.
+
+177
+00:08:25,658 --> 00:08:27,743
+Is he sick
+because of the explosion?
+
+178
+00:08:29,696 --> 00:08:30,729
+What explosion?
+What explosion?
+
+179
+00:08:30,780 --> 00:08:32,898
+What explosion?
+
+180
+00:08:32,966 --> 00:08:34,933
+A chemistry demonstration
+he was doing
+
+181
+00:08:35,001 --> 00:08:36,368
+for his class
+went wrong.
+
+182
+00:08:36,419 --> 00:08:38,003
+Why was it not already
+in the patient history?
+
+183
+00:08:38,071 --> 00:08:41,206
+Because the patient
+was unconscious.
+
+184
+00:08:41,257 --> 00:08:43,809
+But I'm assuming
+Dr. House spoke to the wife.
+
+185
+00:08:43,876 --> 00:08:45,377
+The wife didn't know
+about the explosion.
+
+186
+00:08:45,428 --> 00:08:47,412
+And I was the one
+who questioned her,
+
+187
+00:08:47,463 --> 00:08:48,630
+so, if there was
+an oversight,
+
+188
+00:08:48,715 --> 00:08:52,417
+it was mine.
+
+189
+00:08:52,468 --> 00:08:55,604
+Does Dr. House not attach
+importance to patient histories?
+
+190
+00:08:55,688 --> 00:08:57,189
+No, he thinks
+they're crucial.
+
+191
+00:08:57,256 --> 00:08:59,224
+He just doesn't think
+being in the same room
+
+192
+00:08:59,275 --> 00:09:01,943
+as the patient is crucial.
+
+193
+00:09:02,028 --> 00:09:04,863
+House thinks avoiding
+patients
+
+194
+00:09:04,930 --> 00:09:08,934
+allows him to stay
+as objective as possible.
+
+195
+00:09:09,002 --> 00:09:12,237
+He's not wrong.
+
+196
+00:09:12,288 --> 00:09:15,324
+Sounds like a very diplomatic
+way of saying he's lazy.
+
+197
+00:09:15,408 --> 00:09:17,209
+That's also true.
+
+198
+00:09:17,276 --> 00:09:18,927
+Either way, I'm covered.
+
+199
+00:09:18,995 --> 00:09:20,796
+If you want
+an accurate patient history,
+
+200
+00:09:20,863 --> 00:09:22,047
+don't ever talk
+to the patient.
+
+201
+00:09:22,115 --> 00:09:24,499
+Everybody lies.
+
+202
+00:09:24,584 --> 00:09:26,668
+Except me.
+
+203
+00:09:26,753 --> 00:09:27,952
+To you.
+
+204
+00:09:28,004 --> 00:09:30,055
+Would never do that.
+
+205
+00:09:30,123 --> 00:09:31,840
+Okay.
+Say you're right.
+
+206
+00:09:31,924 --> 00:09:35,060
+If you had actually been
+in the room,
+
+207
+00:09:35,127 --> 00:09:36,461
+questioning the patient,
+
+208
+00:09:36,529 --> 00:09:38,063
+you could read body language,
+
+209
+00:09:38,130 --> 00:09:40,098
+you could ask
+follow-up questions,
+
+210
+00:09:40,149 --> 00:09:43,935
+warn him of the costs
+of lying to you.
+
+211
+00:09:43,986 --> 00:09:45,821
+Don't forget the thumbscrews.
+
+212
+00:09:47,640 --> 00:09:49,441
+Can you dispute
+the possibility that,
+
+213
+00:09:49,492 --> 00:09:51,193
+had you visited
+the patient sooner,
+
+214
+00:09:51,277 --> 00:09:52,728
+maybe talked to the wife,
+
+215
+00:09:52,795 --> 00:09:54,546
+been directed
+to one of the students,
+
+216
+00:09:54,614 --> 00:09:57,416
+that this case might have ended
+very differently?
+
+217
+00:09:59,152 --> 00:10:02,671
+(Bill)
+It wasn't exactly an explosion.
+
+218
+00:10:02,755 --> 00:10:04,539
+It was a controlled reaction
+
+219
+00:10:04,624 --> 00:10:07,008
+that went a little haywire.
+
+220
+00:10:07,093 --> 00:10:08,827
+It was too an explosion.
+
+221
+00:10:08,878 --> 00:10:11,296
+Simon Harris filmed the whole
+thing on his camera phone
+
+222
+00:10:11,347 --> 00:10:13,382
+and posted it on YouTube.
+
+223
+00:10:13,466 --> 00:10:15,600
+It got, like, over 75,000 hits
+already.
+
+224
+00:10:15,668 --> 00:10:17,602
+Looks like
+you've gone viral, Hon.
+
+225
+00:10:17,670 --> 00:10:20,806
+[Coughs]
+
+226
+00:10:22,392 --> 00:10:23,842
+(House)
+He had a loss of consciousness,
+
+227
+00:10:23,893 --> 00:10:26,645
+temporary paralysis...
+
+228
+00:10:26,696 --> 00:10:29,648
+But when I was told
+the patient coughed up blood,
+
+229
+00:10:29,699 --> 00:10:32,451
+then things really started
+to get interesting.
+
+230
+00:10:35,788 --> 00:10:39,124
+Your patient was doubled over
+in pain and coughing up blood,
+
+231
+00:10:39,191 --> 00:10:40,892
+and you found that interesting?
+
+232
+00:10:40,960 --> 00:10:42,861
+Why, is that bad?
+
+233
+00:10:45,631 --> 00:10:47,582
+It's interesting.
+
+234
+00:10:52,911 --> 00:10:55,620
+I do this demonstration
+every year.
+
+235
+00:10:55,623 --> 00:10:58,008
+<i>I usually have a student aide</i>
+<i>help me set it up,</i>
+
+236
+00:10:58,092 --> 00:11:01,428
+<i>and apparently this year he</i>
+<i>added extra hydrofluoric acid,</i>
+
+237
+00:11:01,495 --> 00:11:03,964
+which is why it exploded.
+
+238
+00:11:04,015 --> 00:11:05,899
+The student aide was just trying
+to make a viral video,
+
+239
+00:11:05,967 --> 00:11:07,251
+not hurt anyone.
+
+240
+00:11:07,318 --> 00:11:09,770
+Ended up doing both.
+
+241
+00:11:09,838 --> 00:11:12,222
+So we figured the patient
+inhaled the extra large dose
+
+242
+00:11:12,290 --> 00:11:13,774
+of hydrofluoric acid and...
+
+243
+00:11:13,841 --> 00:11:15,025
+Burned his lungs,
+
+244
+00:11:15,109 --> 00:11:16,310
+which is why
+he coughed up blood.
+
+245
+00:11:16,361 --> 00:11:17,561
+If only burnt lungs explained
+
+246
+00:11:17,645 --> 00:11:19,313
+the passing out and paralysis.
+
+247
+00:11:19,364 --> 00:11:21,348
+The explosion does.
+Check out the video again.
+
+248
+00:11:21,399 --> 00:11:22,733
+He smacked his head
+against the wall.
+
+249
+00:11:22,817 --> 00:11:25,185
+If that caused swelling
+in his brainstem,
+
+250
+00:11:25,236 --> 00:11:26,987
+that would have led
+to eventual loss
+
+251
+00:11:27,038 --> 00:11:28,689
+of consciousness
+and paralysis.
+
+252
+00:11:28,756 --> 00:11:31,625
+So we discussed it
+a little longer,
+
+253
+00:11:31,692 --> 00:11:35,662
+and House decided
+to treat with Heparin.
+
+254
+00:11:37,665 --> 00:11:41,335
+I wouldn't mind
+a couple more details.
+
+255
+00:11:41,386 --> 00:11:43,871
+It was aerosolized Heparin.
+
+256
+00:11:43,938 --> 00:11:46,640
+You skipped
+over the actual DDX,
+
+257
+00:11:46,707 --> 00:11:49,276
+and now you're averting
+your eyes.
+
+258
+00:11:49,344 --> 00:11:51,545
+I'm growing more
+and more curious by the moment.
+
+259
+00:11:56,067 --> 00:11:57,717
+He smacked his head
+against the wall.
+
+260
+00:11:57,769 --> 00:12:00,020
+If that caused swelling
+in his brainstem,
+
+261
+00:12:00,071 --> 00:12:01,655
+that would have led
+to eventual loss
+
+262
+00:12:01,722 --> 00:12:03,824
+of consciousness
+and paralysis.
+
+263
+00:12:03,891 --> 00:12:04,891
+- <i>[Muffled] Nobody move.</i>
+- Aagh!
+
+264
+00:12:06,444 --> 00:12:07,494
+He--he had on a what?
+
+265
+00:12:07,561 --> 00:12:09,229
+Gas mask.
+
+266
+00:12:14,535 --> 00:12:16,903
+The stink bomb
+was Chase's.
+
+267
+00:12:16,955 --> 00:12:19,906
+He was getting revenge
+for the orange hair
+
+268
+00:12:19,958 --> 00:12:22,542
+and rigged it
+in House's office.
+
+269
+00:12:22,594 --> 00:12:26,813
+But House found it.
+
+270
+00:12:26,881 --> 00:12:28,448
+Mm-hmm.
+
+271
+00:12:30,918 --> 00:12:32,552
+You can leave
+when I have an answer.
+
+272
+00:12:32,604 --> 00:12:34,271
+It might help
+if we knew the question.
+
+273
+00:12:34,355 --> 00:12:35,472
+How do we treat
+
+274
+00:12:35,556 --> 00:12:38,591
+chemical burns
+inside the lungs?
+
+275
+00:12:38,643 --> 00:12:41,228
+Maybe we can use
+a bronchoalveolar lavage
+
+276
+00:12:41,279 --> 00:12:42,446
+<i>to wash 'em out</i>
+<i>with water.</i>
+
+277
+00:12:42,530 --> 00:12:44,481
+Sorry. My fault.
+Should have clarified.
+
+278
+00:12:44,565 --> 00:12:46,533
+How do we treat chemical burns
+
+279
+00:12:46,600 --> 00:12:48,318
+inside the lungs
+without killing the patient?
+
+280
+00:12:48,403 --> 00:12:51,771
+Silver sulfadiazine
+works well on chemical burns.
+
+281
+00:12:51,823 --> 00:12:53,790
+Burn cream would drown him
+faster than water.
+
+282
+00:12:53,875 --> 00:12:56,877
+Well?
+
+283
+00:12:56,944 --> 00:12:58,712
+Aerosolized Heparin.
+
+284
+00:13:00,948 --> 00:13:02,282
+Me likey.
+
+285
+00:13:02,333 --> 00:13:03,917
+<i>(Park)</i>
+<i>But that's only experimental.</i>
+
+286
+00:13:03,968 --> 00:13:05,100
+It's never actually
+been used before.
+
+287
+00:13:05,125 --> 00:13:06,169
+Not true.
+
+288
+00:13:06,170 --> 00:13:07,554
+Been used in sheep.
+
+289
+00:13:07,622 --> 00:13:10,157
+Uh-huh.
+
+290
+00:13:12,677 --> 00:13:14,794
+The guy was going downhill
+fast.
+
+291
+00:13:14,846 --> 00:13:16,963
+We needed a treatment
+that was a...
+
+292
+00:13:17,015 --> 00:13:18,365
+Slope changer.
+
+293
+00:13:18,433 --> 00:13:20,200
+So you busted out
+the sulfur dioxide stink bomb?
+
+294
+00:13:20,268 --> 00:13:22,352
+It was a team-building exercise.
+
+295
+00:13:22,437 --> 00:13:24,304
+No. It was manipulation.
+
+296
+00:13:24,355 --> 00:13:26,239
+You were pressuring your team
+into coming up
+
+297
+00:13:26,307 --> 00:13:28,608
+with unsafe medical ideas
+just to get out of that room.
+
+298
+00:13:28,660 --> 00:13:33,613
+You say pressure,
+I say inspire.
+
+299
+00:13:33,665 --> 00:13:35,832
+The usual safe ideas
+were not gonna work.
+
+300
+00:13:35,917 --> 00:13:37,367
+Aerosolized Heparin might.
+
+301
+00:13:37,452 --> 00:13:39,052
+And everyone else
+just went along with this?
+
+302
+00:13:39,120 --> 00:13:40,654
+No.
+
+303
+00:13:40,722 --> 00:13:44,491
+I told House I thought
+it was a mistake.
+
+304
+00:13:44,542 --> 00:13:46,026
+And those were
+your exact words?
+
+305
+00:13:46,094 --> 00:13:49,629
+I think
+I might have said insane.
+
+306
+00:13:49,697 --> 00:13:51,932
+You thought it was insane,
+and yet you let it happen.
+
+307
+00:13:51,999 --> 00:13:53,500
+No, I--
+if you disagree
+
+308
+00:13:53,568 --> 00:13:54,667
+with Dr. House
+on patient safety, Doctor,
+
+309
+00:13:54,719 --> 00:13:56,553
+it is your duty
+to speak up.
+
+310
+00:13:56,637 --> 00:13:58,055
+Otherwise, you are equally
+to blame.
+
+311
+00:13:58,139 --> 00:13:59,206
+I did speak up.
+I tried.
+
+312
+00:13:59,273 --> 00:14:02,192
+And you failed.
+
+313
+00:14:02,276 --> 00:14:05,278
+And that's why
+I went to Dr. Foreman.
+
+314
+00:14:09,901 --> 00:14:11,101
+The Heparin could cause
+the patient to bleed
+
+315
+00:14:11,169 --> 00:14:13,019
+into his lungs even faster.
+
+316
+00:14:13,071 --> 00:14:14,504
+It is crazy,
+
+317
+00:14:14,572 --> 00:14:17,040
+but House doesn't do crazy
+just for crazy's sake.
+
+318
+00:14:17,125 --> 00:14:20,577
+If he thinks this is the only
+way to help your patient...
+
+319
+00:14:25,049 --> 00:14:27,250
+<i>(Cofield) You did not tell me</i>
+<i>you were involved in this case</i>
+
+320
+00:14:27,335 --> 00:14:29,503
+when you
+asked me to do this.
+
+321
+00:14:29,554 --> 00:14:31,505
+I wasn't.
+
+322
+00:14:31,572 --> 00:14:32,956
+The Heparin decision
+
+323
+00:14:33,024 --> 00:14:35,976
+didn't have anything to do
+with the outcome.
+
+324
+00:14:36,044 --> 00:14:38,929
+If signing off on everything
+House does is a pattern,
+
+325
+00:14:38,996 --> 00:14:40,931
+it affects
+the way House behaves,
+
+326
+00:14:41,015 --> 00:14:43,049
+it affects the way
+House's team reacts
+
+327
+00:14:43,101 --> 00:14:44,434
+to the way House behaves.
+
+328
+00:14:44,519 --> 00:14:47,554
+House...
+
+329
+00:14:47,605 --> 00:14:49,589
+is brilliant.
+
+330
+00:14:49,657 --> 00:14:52,325
+I give him the benefit
+of the doubt most of the time
+
+331
+00:14:52,393 --> 00:14:54,244
+because I've seen
+what he can do.
+
+332
+00:14:54,328 --> 00:14:55,662
+Getting House out of prison
+
+333
+00:14:55,729 --> 00:14:57,581
+is the biggest decision
+you've made as Dean of Medicine,
+
+334
+00:14:57,665 --> 00:14:59,399
+right?
+
+335
+00:14:59,450 --> 00:15:02,169
+And if he's suspended
+as a result of this hearing,
+
+336
+00:15:02,236 --> 00:15:05,756
+he violates his parole
+and he goes back.
+
+337
+00:15:05,840 --> 00:15:10,010
+And that probably leaves you
+as former Dean of Medicine.
+
+338
+00:15:10,077 --> 00:15:14,181
+I suppose so.
+
+339
+00:15:14,248 --> 00:15:16,316
+You didn't choose me
+to oversee this
+
+340
+00:15:16,384 --> 00:15:18,151
+because you thought
+I could be objective.
+
+341
+00:15:18,219 --> 00:15:21,221
+You chose me because
+you thought I'd have your back
+
+342
+00:15:21,289 --> 00:15:23,356
+and I'd think twice
+about making a decision
+
+343
+00:15:23,424 --> 00:15:26,443
+that would get you fired.
+
+344
+00:15:28,146 --> 00:15:30,263
+Eric.
+
+345
+00:15:30,314 --> 00:15:31,765
+I'm sorry.
+
+346
+00:15:31,833 --> 00:15:34,568
+But if your
+get-House-out-of-jail-free
+
+347
+00:15:34,635 --> 00:15:37,671
+experiment
+blows up in your face,
+
+348
+00:15:37,738 --> 00:15:41,441
+it's not my job
+to get you out of it.
+
+349
+00:15:47,717 --> 00:15:49,222
+After you'd administered
+the Heparin,
+
+350
+00:15:49,224 --> 00:15:50,675
+I see there was a discharge
+order on the chart,
+
+351
+00:15:50,726 --> 00:15:52,810
+and yet the patient
+never left.
+
+352
+00:15:52,878 --> 00:15:55,430
+House ordered
+a therapeutic bath first
+
+353
+00:15:55,514 --> 00:15:58,766
+to wash off any residual
+chemicals from the blast.
+
+354
+00:15:58,851 --> 00:16:00,651
+But we wound up
+finding something.
+
+355
+00:16:00,719 --> 00:16:02,403
+You have a bit of a rash.
+
+356
+00:16:02,488 --> 00:16:04,272
+Can you raise
+both your arms?
+
+357
+00:16:04,356 --> 00:16:07,158
+I just need to see
+how far it goes.
+
+358
+00:16:09,361 --> 00:16:11,496
+<i>(Bill) You told me</i>
+<i>i was going to be okay.</i>
+
+359
+00:16:11,563 --> 00:16:14,582
+And now there's
+still something wrong with me.
+
+360
+00:16:14,666 --> 00:16:16,667
+It probably doesn't mean
+anything,
+
+361
+00:16:16,735 --> 00:16:19,253
+but we want to
+make sure.
+
+362
+00:16:19,338 --> 00:16:21,255
+Of course you do.
+
+363
+00:16:21,340 --> 00:16:23,240
+I got to get out of here,
+okay?
+
+364
+00:16:23,292 --> 00:16:24,625
+Just relax.
+
+365
+00:16:24,710 --> 00:16:26,294
+Please just let me
+get out of here.
+
+366
+00:16:26,378 --> 00:16:27,512
+It'll just take a minute.
+
+367
+00:16:27,579 --> 00:16:29,647
+We just need to get
+a good look at the rash.
+
+368
+00:16:29,715 --> 00:16:31,048
+The rash?
+That was nothing.
+
+369
+00:16:31,100 --> 00:16:35,269
+Just some irritation
+from lying in bed all day.
+
+370
+00:16:35,354 --> 00:16:37,438
+The problem
+was the patient's brain.
+
+371
+00:16:37,523 --> 00:16:39,107
+He freaked out.
+
+372
+00:16:39,191 --> 00:16:40,925
+I got to--I got to get out.
+
+373
+00:16:40,976 --> 00:16:42,560
+I got to get out of here.
+
+374
+00:16:42,611 --> 00:16:44,612
+"Freak out" is a little strong.
+
+375
+00:16:44,696 --> 00:16:46,614
+In my opinion at the time,
+
+376
+00:16:46,698 --> 00:16:49,117
+it was the rash
+that was gonna kill him.
+
+377
+00:16:49,201 --> 00:16:50,568
+Invasive strep.
+
+378
+00:16:50,619 --> 00:16:52,370
+Reasonable theory,
+supported by the evidence.
+
+379
+00:16:52,437 --> 00:16:54,906
+The evidence pointed
+to psychosis.
+
+380
+00:16:54,957 --> 00:16:56,824
+We caused it
+by giving him steroids
+
+381
+00:16:56,909 --> 00:16:58,159
+when he first came in.
+
+382
+00:16:58,243 --> 00:16:59,944
+What'd you think?
+
+383
+00:16:59,995 --> 00:17:02,296
+I thought Park and Adams
+were both right
+
+384
+00:17:02,381 --> 00:17:04,615
+but that their conclusions
+were both wrong.
+
+385
+00:17:04,666 --> 00:17:07,335
+The neuro symptoms
+and the rash were both signs
+
+386
+00:17:07,419 --> 00:17:08,786
+of an underlying disease.
+
+387
+00:17:08,837 --> 00:17:14,425
+Together with the lung,
+it added up to Wegener's.
+
+388
+00:17:14,476 --> 00:17:18,930
+How does Dr. House handle it
+when three smart doctors
+
+389
+00:17:18,981 --> 00:17:21,682
+come up with three different
+but equally valid ideas?
+
+390
+00:17:21,767 --> 00:17:24,018
+I run a diagnostic trial.
+
+391
+00:17:29,441 --> 00:17:31,659
+Start the patient
+on high-dose steroids.
+
+392
+00:17:31,743 --> 00:17:34,745
+<i>Multiple birds,</i>
+<i>single stone.</i>
+
+393
+00:17:34,813 --> 00:17:38,199
+<i>If Taub is right, then he</i>
+<i>will walk out of here cured.</i>
+
+394
+00:17:38,283 --> 00:17:40,001
+<i>If Adams is right,</i>
+<i>he'll spike a fever,</i>
+
+395
+00:17:40,085 --> 00:17:41,452
+get hypotensive,
+we can treat it.
+
+396
+00:17:41,503 --> 00:17:43,204
+He can walk out of here cured.
+
+397
+00:17:43,288 --> 00:17:44,872
+If Park is right,
+
+398
+00:17:44,957 --> 00:17:46,374
+he goes all <i>Cuckoo's Nest</i>
+on us,
+
+399
+00:17:46,458 --> 00:17:48,626
+we can cross "brain"
+off the list,
+
+400
+00:17:48,677 --> 00:17:50,661
+diagnose him, and he can walk
+out of here cured.
+
+401
+00:17:50,712 --> 00:17:52,380
+Are you trying
+to make this easy for me?
+
+402
+00:17:52,464 --> 00:17:53,798
+By your own admission,
+
+403
+00:17:53,866 --> 00:17:55,333
+if you give
+the patient steroids,
+
+404
+00:17:55,400 --> 00:17:57,635
+two of the three outcomes
+are gonna make him worse.
+
+405
+00:17:57,686 --> 00:17:58,519
+What was making
+the patient worse
+
+406
+00:17:58,604 --> 00:18:00,304
+was not having a diagnosis.
+
+407
+00:18:00,355 --> 00:18:02,139
+This was the fastest way
+to get it.
+
+408
+00:18:02,191 --> 00:18:04,442
+It was a perfect
+diagnostic moment.
+
+409
+00:18:04,509 --> 00:18:06,978
+In light of what happened,
+
+410
+00:18:07,029 --> 00:18:10,314
+you still think it was
+the perfect diagnostic moment?
+
+411
+00:18:13,351 --> 00:18:15,069
+Yes.
+
+412
+00:18:15,153 --> 00:18:18,789
+My theory accounted
+for all the medical outcomes.
+
+413
+00:18:21,293 --> 00:18:25,563
+It did not account for
+the disobedience of my own team.
+
+414
+00:18:30,052 --> 00:18:31,368
+What are you doing?
+
+415
+00:18:31,420 --> 00:18:33,203
+I think you're right
+about the strep.
+
+416
+00:18:33,255 --> 00:18:35,706
+Can't hurt to biopsy the rash
+while we're waiting.
+
+417
+00:18:35,757 --> 00:18:37,642
+Thanks.
+
+418
+00:18:40,479 --> 00:18:45,066
+At the time, it seemed
+like a good idea.
+
+419
+00:18:45,150 --> 00:18:47,718
+I know this is hard,
+
+420
+00:18:47,769 --> 00:18:52,256
+but please tell me exactly
+what happened next.
+
+421
+00:18:55,694 --> 00:18:58,663
+Draw up a little anesthetic.
+
+422
+00:18:58,730 --> 00:19:02,583
+Two ccs Lidocaine.
+
+423
+00:19:06,071 --> 00:19:08,673
+Get away from me.
+
+424
+00:19:08,740 --> 00:19:10,508
+[Yelps]
+
+425
+00:19:10,575 --> 00:19:13,410
+[Both men grunting]
+
+426
+00:19:17,549 --> 00:19:20,101
+You're in a hospital.
+Calm down.
+
+427
+00:19:23,639 --> 00:19:25,723
+Code Grey!
+
+428
+00:19:25,774 --> 00:19:27,058
+So your position
+is that your team's disobedience
+
+429
+00:19:27,125 --> 00:19:29,026
+caused this?
+That's not what I said.
+
+430
+00:19:29,094 --> 00:19:30,795
+You said you didn't anticipate
+their defiance.
+
+431
+00:19:30,862 --> 00:19:33,497
+You implied that all
+would have been fine otherwise.
+
+432
+00:19:33,565 --> 00:19:35,199
+So who do you blame,
+
+433
+00:19:35,266 --> 00:19:37,702
+Dr. Adams
+or Dr. Chase?
+
+434
+00:19:37,769 --> 00:19:39,203
+Or both?
+
+435
+00:19:41,623 --> 00:19:43,908
+I don't blame either one.
+
+436
+00:19:43,959 --> 00:19:47,295
+So who do you blame,
+Dr. House?
+
+437
+00:19:53,815 --> 00:19:55,132
+[Shouting]
+
+438
+00:19:55,183 --> 00:19:57,101
+Code Grey!
+
+439
+00:19:59,821 --> 00:20:01,739
+Get haloperidol.
+
+440
+00:20:01,806 --> 00:20:03,974
+Got it.
+
+441
+00:20:04,026 --> 00:20:06,810
+[Yells]
+Ah...Ah...
+
+442
+00:20:18,957 --> 00:20:22,843
+Oh, my God,
+Chase.
+
+443
+00:20:37,225 --> 00:20:39,026
+Prep the O.R.
+and get a gurney.
+
+444
+00:20:39,111 --> 00:20:41,345
+Start an I.V.
+
+445
+00:20:45,016 --> 00:20:47,785
+Come on.
+The bleeder's got to be in here.
+
+446
+00:20:50,855 --> 00:20:52,957
+Got it.
+Which artery?
+
+447
+00:20:53,024 --> 00:20:54,792
+It's his heart.
+
+448
+00:20:58,297 --> 00:21:01,065
+Fortunately, only the knife tip
+reached the cardiac muscle.
+
+449
+00:21:01,133 --> 00:21:03,601
+Made a laceration
+in the left ventricle
+
+450
+00:21:03,669 --> 00:21:05,736
+about the size of the tip
+of my index finger.
+
+451
+00:21:05,804 --> 00:21:08,839
+At that moment,
+he could only stay alive
+
+452
+00:21:08,907 --> 00:21:12,977
+as long as my finger
+plugged the hole.
+
+453
+00:21:13,045 --> 00:21:14,312
+It could have been me
+on the floor.
+
+454
+00:21:14,379 --> 00:21:16,180
+It should have been me.
+
+455
+00:21:16,231 --> 00:21:17,548
+It was my theory.
+
+456
+00:21:17,599 --> 00:21:19,100
+I held the needle
+in front of the patient
+
+457
+00:21:19,184 --> 00:21:22,236
+that set off his paranoia.
+
+458
+00:21:22,321 --> 00:21:25,889
+If you're looking for someone
+to blame...
+
+459
+00:21:25,941 --> 00:21:28,242
+blame me.
+
+460
+00:21:30,395 --> 00:21:32,496
+Please continue.
+
+461
+00:21:32,564 --> 00:21:34,198
+Getting some ectopy.
+
+462
+00:21:34,249 --> 00:21:36,334
+Coming through.
+Good carotid pulse.
+
+463
+00:21:36,401 --> 00:21:37,501
+<i>(Adams)</i>
+<i>Regular?</i>
+
+464
+00:21:37,569 --> 00:21:39,587
+No.
+Got a PVC.
+
+465
+00:21:39,671 --> 00:21:41,172
+Got to move it, people.
+
+466
+00:21:44,176 --> 00:21:46,293
+My diagnostic test worked.
+
+467
+00:21:46,378 --> 00:21:48,796
+It proved the patient
+had a steroid-induced psychosis.
+
+468
+00:21:48,880 --> 00:21:50,297
+And that's what you took away
+from this situation?
+
+469
+00:21:50,382 --> 00:21:52,967
+The brain was not a symptom
+of an underlying disease.
+
+470
+00:21:53,051 --> 00:21:54,251
+<i>Your colleague was stabbed.</i>
+
+471
+00:21:54,302 --> 00:21:57,054
+Are you telling me
+you didn't care?
+
+472
+00:22:00,559 --> 00:22:01,925
+How bad is it?
+
+473
+00:22:01,977 --> 00:22:03,194
+<i>(Taub)</i>
+<i>Bad.</i>
+
+474
+00:22:03,261 --> 00:22:04,612
+<i>Patch.</i>
+
+475
+00:22:07,282 --> 00:22:08,816
+<i>Ready?</i>
+<i>(Adams) I can't take my finger out.</i>
+
+476
+00:22:08,900 --> 00:22:10,785
+He'll bleed.
+I don't think he can take it.
+
+477
+00:22:10,869 --> 00:22:12,269
+<i>(House)</i>
+<i>Oxygenation's at 100%.</i>
+
+478
+00:22:12,320 --> 00:22:13,537
+He's as ready
+as he's gonna be.
+
+479
+00:22:13,605 --> 00:22:15,489
+We got to go for it.
+
+480
+00:22:15,574 --> 00:22:16,991
+<i>(Adams)</i>
+<i>On my count.</i>
+
+481
+00:22:17,075 --> 00:22:21,779
+One, two, three.
+
+482
+00:22:25,283 --> 00:22:27,251
+(Taub)
+Suture.
+
+483
+00:22:28,620 --> 00:22:30,421
+Got it.
+BP is stable.
+
+484
+00:22:31,973 --> 00:22:33,924
+Patch is holding.
+
+485
+00:22:36,478 --> 00:22:38,262
+What was his heart rate?
+
+486
+00:22:38,313 --> 00:22:39,680
+He doesn't have one.
+
+487
+00:22:39,765 --> 00:22:41,348
+He's on bypass.
+<i>(House) Not Chase.</i>
+
+488
+00:22:41,433 --> 00:22:44,018
+The patient.
+
+489
+00:22:44,102 --> 00:22:45,820
+You're DDX-ing?
+
+490
+00:22:45,904 --> 00:22:48,656
+Park, come with me.
+
+491
+00:22:48,740 --> 00:22:49,973
+Taub's got this.
+
+492
+00:22:50,025 --> 00:22:51,242
+<i>(Park)</i>
+<i>My friend is here</i>
+
+493
+00:22:51,309 --> 00:22:52,860
+because you didn't listen
+to me.
+
+494
+00:22:52,944 --> 00:22:55,246
+I did listen to you.
+Chase didn't listen to me.
+
+495
+00:22:55,313 --> 00:22:57,364
+<i>At this point,</i>
+
+496
+00:22:57,449 --> 00:22:58,749
+being he makes you
+feel better.
+
+497
+00:22:58,817 --> 00:23:00,584
+You're not helping Chase
+or our patient.
+
+498
+00:23:02,421 --> 00:23:04,789
+Fine.
+
+499
+00:23:04,856 --> 00:23:06,207
+So he just walked out?
+
+500
+00:23:06,291 --> 00:23:07,291
+There really was nothing
+for him to do.
+
+501
+00:23:07,359 --> 00:23:08,492
+Speaks to a certain
+callousness
+
+502
+00:23:08,560 --> 00:23:10,261
+on Dr. House's part,
+don't you think?
+
+503
+00:23:10,328 --> 00:23:11,595
+Who cares
+if House was callous?
+
+504
+00:23:11,663 --> 00:23:13,664
+Are you gonna punish
+callousness?
+
+505
+00:23:13,732 --> 00:23:16,600
+But you agree that empathy
+is a useful quality for doctors?
+
+506
+00:23:16,668 --> 00:23:17,802
+House is not the problem.
+
+507
+00:23:17,869 --> 00:23:19,970
+Your friend got stabbed.
+
+508
+00:23:20,021 --> 00:23:22,206
+He may die
+from those wounds.
+
+509
+00:23:22,274 --> 00:23:24,175
+If you had been in that room,
+maybe that could have been you.
+
+510
+00:23:24,242 --> 00:23:25,609
+I wouldn't have been
+in the room.
+
+511
+00:23:25,677 --> 00:23:30,448
+Implicitly, you just said
+that Chase was at fault.
+
+512
+00:23:34,419 --> 00:23:37,037
+We all knew
+a psychotic episode
+
+513
+00:23:37,122 --> 00:23:39,406
+was one
+of the three possible outcomes.
+
+514
+00:23:39,491 --> 00:23:42,460
+And Chase brought a scalpel
+in there.
+
+515
+00:23:42,527 --> 00:23:43,844
+He endangered Dr. Adams,
+
+516
+00:23:43,912 --> 00:23:47,064
+he endangered himself,
+and he endangered the patient.
+
+517
+00:23:48,867 --> 00:23:50,501
+Thank you.
+
+518
+00:24:50,145 --> 00:24:52,897
+Lungs, rash,
+
+519
+00:24:52,948 --> 00:24:54,648
+now excessive
+R-R variability.
+
+520
+00:24:54,733 --> 00:24:56,433
+Go.
+
+521
+00:25:02,991 --> 00:25:04,441
+<i>(Taub)</i>
+<i>It's a hospital.</i>
+
+522
+00:25:04,492 --> 00:25:05,492
+There are lots of doctors
+
+523
+00:25:05,577 --> 00:25:06,777
+who can take care of him.
+
+524
+00:25:06,828 --> 00:25:08,546
+And your thinking
+is that only you guys
+
+525
+00:25:08,613 --> 00:25:09,547
+are qualified to sit
+in this room,
+
+526
+00:25:09,614 --> 00:25:12,299
+doing nothing?
+
+527
+00:25:12,384 --> 00:25:13,717
+If you're motivated by caring,
+just bear in mind
+
+528
+00:25:13,785 --> 00:25:15,302
+he's a dedicated
+chemistry teacher
+
+529
+00:25:15,387 --> 00:25:17,388
+with a pretty wife
+and adoring students,
+
+530
+00:25:17,455 --> 00:25:18,589
+baby on the way.
+
+531
+00:25:18,640 --> 00:25:20,290
+She's not pregnant.
+
+532
+00:25:20,342 --> 00:25:22,560
+Would it make a difference?
+'Cause I could knock her up.
+
+533
+00:25:22,627 --> 00:25:26,313
+- Autonomic dysregulation.
+- Shut up.
+
+534
+00:25:26,398 --> 00:25:29,099
+Could you guys
+keep it down?
+
+535
+00:25:34,739 --> 00:25:37,191
+You made it, Bud.
+
+536
+00:25:37,275 --> 00:25:39,276
+(Adams)
+You're in the PACU.
+
+537
+00:25:39,327 --> 00:25:40,644
+Been in surgery.
+
+538
+00:25:40,695 --> 00:25:42,613
+The anesthesia's
+just wearing off.
+
+539
+00:25:42,664 --> 00:25:45,115
+Did I have an epidural?
+
+540
+00:25:45,166 --> 00:25:46,951
+<i>Uh...</i>
+
+541
+00:25:47,002 --> 00:25:49,820
+No.
+
+542
+00:25:49,871 --> 00:25:52,322
+'Cause I can't feel my legs.
+
+543
+00:26:01,211 --> 00:26:02,645
+[Door slides open]
+
+544
+00:26:02,713 --> 00:26:06,582
+Dr. Chase?
+
+545
+00:26:06,650 --> 00:26:07,950
+Robert?
+
+546
+00:26:08,018 --> 00:26:09,485
+Yeah.
+
+547
+00:26:12,723 --> 00:26:15,341
+I'm Walter Cofield.
+
+548
+00:26:15,392 --> 00:26:16,976
+I'm a neurologist
+over at--
+
+549
+00:26:17,043 --> 00:26:20,680
+I know
+who you are.
+
+550
+00:26:20,731 --> 00:26:23,516
+Good.
+
+551
+00:26:26,120 --> 00:26:30,456
+Think you're up for answering
+a couple questions?
+
+552
+00:26:30,524 --> 00:26:33,759
+Well, it's not like I can
+get up and run away.
+
+553
+00:26:36,430 --> 00:26:40,116
+Wasn't my best joke.
+
+554
+00:26:40,200 --> 00:26:46,122
+I'm smiling because,
+for the last 12 hours,
+
+555
+00:26:46,206 --> 00:26:49,075
+I've been picturing you
+with orange hair.
+
+556
+00:26:49,143 --> 00:26:51,277
+I dyed it back.
+
+557
+00:26:58,519 --> 00:26:59,752
+[Recorder beeps]
+
+558
+00:27:02,806 --> 00:27:06,025
+Were you angry
+with Dr. House?
+
+559
+00:27:06,093 --> 00:27:08,361
+It was a prank.
+
+560
+00:27:08,428 --> 00:27:10,029
+It wasn't uncommon.
+
+561
+00:27:10,097 --> 00:27:11,430
+<i>So I've heard.</i>
+
+562
+00:27:11,481 --> 00:27:13,065
+<i>That doesn't mean</i>
+<i>you couldn't get angry.</i>
+
+563
+00:27:13,133 --> 00:27:14,600
+Might actually contribute
+
+564
+00:27:14,668 --> 00:27:15,902
+to that reaction.
+
+565
+00:27:15,969 --> 00:27:17,803
+May I ask
+why that matters?
+
+566
+00:27:17,871 --> 00:27:21,123
+<i>Are you trying to prove</i>
+<i>that I was distracted,</i>
+
+567
+00:27:21,208 --> 00:27:23,476
+that my judgment
+was compromised?
+
+568
+00:27:25,546 --> 00:27:27,112
+Who do you think was at fault
+
+569
+00:27:27,164 --> 00:27:28,998
+for what happened to you,
+Dr. Chase?
+
+570
+00:27:29,066 --> 00:27:31,734
+Again, why does it matter?
+
+571
+00:27:31,802 --> 00:27:33,035
+<i>You're a smart doctor.</i>
+
+572
+00:27:33,103 --> 00:27:35,204
+You know what happened here
+better than anyone,
+
+573
+00:27:35,272 --> 00:27:36,639
+and you've worked
+with Dr. House
+
+574
+00:27:36,707 --> 00:27:38,074
+longer than anyone.
+
+575
+00:27:38,141 --> 00:27:41,944
+And I suspect that
+you've spent every minute
+
+576
+00:27:42,012 --> 00:27:46,048
+since this has happened trying
+to answer that very question.
+
+577
+00:27:46,116 --> 00:27:51,270
+I don't think
+it was anyone's fault.
+
+578
+00:27:51,338 --> 00:27:52,805
+I was angry,
+
+579
+00:27:52,856 --> 00:27:55,508
+but I wasn't distracted.
+
+580
+00:27:55,576 --> 00:27:57,810
+And I think that,
+if there's any chance
+
+581
+00:27:57,878 --> 00:27:59,345
+I'm gonna walk again,
+
+582
+00:27:59,413 --> 00:28:02,481
+it's because
+Dr. House is a genius.
+
+583
+00:28:02,549 --> 00:28:03,583
+How about warmth?
+
+584
+00:28:03,650 --> 00:28:05,534
+Can you feel the sheets
+on your skin?
+
+585
+00:28:05,619 --> 00:28:07,370
+<i>I just said</i>
+
+586
+00:28:07,454 --> 00:28:08,504
+I don't feel anything.
+
+587
+00:28:08,589 --> 00:28:10,456
+Objectivity, House.
+
+588
+00:28:16,263 --> 00:28:19,966
+What about posttraumatic
+syringomyelia?
+
+589
+00:28:20,017 --> 00:28:22,602
+<i>Syrinx formed</i>
+<i>in the subarachnoid space,</i>
+
+590
+00:28:22,669 --> 00:28:24,804
+<i>blocking the flow</i>
+<i>of cerebrospinal fluid.</i>
+
+591
+00:28:24,855 --> 00:28:26,355
+That'd mean the damage
+was permanent.
+
+592
+00:28:28,842 --> 00:28:30,359
+No.
+
+593
+00:28:30,444 --> 00:28:31,894
+Forget the nerves.
+
+594
+00:28:31,979 --> 00:28:33,613
+House,
+if it's total paralysis,
+
+595
+00:28:33,680 --> 00:28:34,730
+he must have--
+<i>not necessarily.</i>
+
+596
+00:28:34,815 --> 00:28:36,399
+Think arteries.
+
+597
+00:28:36,483 --> 00:28:38,851
+<i>Blood flow to his spinal column</i>
+<i>is cut off.</i>
+
+598
+00:28:38,902 --> 00:28:40,536
+<i>It's a clot</i>
+<i>in the radicular artery.</i>
+
+599
+00:28:40,621 --> 00:28:41,988
+That could be fixable.
+
+600
+00:28:42,039 --> 00:28:43,956
+Prep a room
+for an embolectomy.
+
+601
+00:28:44,024 --> 00:28:45,458
+Let's get that thing
+out of there
+
+602
+00:28:45,525 --> 00:28:46,575
+<i>before it does</i>
+<i>any more damage.</i>
+
+603
+00:28:46,660 --> 00:28:47,994
+And if it's not a clot?
+
+604
+00:28:48,045 --> 00:28:50,046
+Then you can ask Foreman
+if hospital insurance
+
+605
+00:28:50,130 --> 00:28:51,547
+covers ramp-vans.
+
+606
+00:28:53,717 --> 00:28:56,052
+You're through the aorta.
+
+607
+00:28:56,136 --> 00:28:57,470
+<i>(Chase)</i>
+<i>There.</i>
+
+608
+00:28:57,537 --> 00:28:59,839
+Sensory level is at l5.
+
+609
+00:28:59,890 --> 00:29:00,873
+It must be
+the descending branch.
+
+610
+00:29:00,924 --> 00:29:02,224
+Can I see the monitor?
+
+611
+00:29:02,309 --> 00:29:03,643
+Stop there.
+
+612
+00:29:03,710 --> 00:29:05,678
+Shoot the dye.
+
+613
+00:29:09,683 --> 00:29:11,350
+There it is.
+<i>Don't get too excited.</i>
+
+614
+00:29:11,401 --> 00:29:13,235
+We still got to get it out.
+
+615
+00:29:13,320 --> 00:29:14,553
+Still could have done
+permanent damage.
+
+616
+00:29:18,575 --> 00:29:21,160
+Patient does not have
+autonomic dysregulation.
+
+617
+00:29:21,227 --> 00:29:22,895
+There's blood
+in his urine bag.
+
+618
+00:29:22,946 --> 00:29:24,113
+Kidneys are failing.
+
+619
+00:29:24,197 --> 00:29:25,831
+House, not now.
+Got to be now.
+
+620
+00:29:25,899 --> 00:29:28,451
+<i>Foreman is transferring our guy</i>
+<i>to Princeton General</i>
+
+621
+00:29:28,535 --> 00:29:29,735
+<i>as soon as there's</i>
+<i>a bed available.</i>
+
+622
+00:29:29,786 --> 00:29:31,871
+Says the doctors here
+can no longer be objective
+
+623
+00:29:31,922 --> 00:29:34,090
+since the stabbing.
+
+624
+00:29:34,174 --> 00:29:36,375
+(Cofield)
+In the middle of a procedure
+
+625
+00:29:36,426 --> 00:29:38,627
+that could basically
+save your life,
+
+626
+00:29:38,712 --> 00:29:43,382
+House is actually trying
+to drag people away?
+
+627
+00:29:43,450 --> 00:29:44,850
+How do you work
+with a guy like that?
+
+628
+00:29:44,918 --> 00:29:47,086
+He wasn't trying
+to pull anybody away.
+
+629
+00:29:47,154 --> 00:29:49,555
+Everyone had already refused
+to work on that case.
+
+630
+00:29:49,623 --> 00:29:52,391
+He knew the answer.
+
+631
+00:29:52,459 --> 00:29:54,193
+<i>He wanted</i>
+<i>to check on me.</i>
+
+632
+00:29:54,261 --> 00:29:55,928
+<i>But he needed an excuse.</i>
+
+633
+00:29:55,996 --> 00:29:59,865
+Otherwise, he could be
+accused of caring.
+
+634
+00:30:01,434 --> 00:30:03,819
+So your testimony is that
+
+635
+00:30:03,904 --> 00:30:06,956
+Dr. House's
+complete lack of concern
+
+636
+00:30:07,040 --> 00:30:08,874
+is evidence
+of his deep concern?
+
+637
+00:30:17,351 --> 00:30:20,219
+Did you just do that?
+
+638
+00:30:20,286 --> 00:30:21,220
+What?
+
+639
+00:30:27,260 --> 00:30:29,478
+Wiggle your toes.
+
+640
+00:30:34,735 --> 00:30:37,319
+[Clatter]
+
+641
+00:30:42,142 --> 00:30:45,111
+Do you feel that?
+
+642
+00:30:45,162 --> 00:30:47,713
+Congratulations.
+
+643
+00:30:47,781 --> 00:30:49,682
+It was the clot.
+
+644
+00:30:49,750 --> 00:30:51,751
+<i>Short occlusion time</i>
+<i>of the artery,</i>
+
+645
+00:30:51,818 --> 00:30:54,019
+when the swelling goes down,
+you should...
+
+646
+00:30:54,087 --> 00:30:57,656
+<i>Gain back at least</i>
+<i>some of the function.</i>
+
+647
+00:31:04,848 --> 00:31:07,666
+One more thing.
+Sorry.
+
+648
+00:31:07,734 --> 00:31:09,935
+You knew
+that your patient was at risk
+
+649
+00:31:10,003 --> 00:31:11,637
+for a psychotic break
+
+650
+00:31:11,705 --> 00:31:14,473
+when you brought a scalpel
+within his reach.
+
+651
+00:31:14,541 --> 00:31:16,542
+Why did you ignore
+that risk?
+
+652
+00:31:19,813 --> 00:31:23,849
+I thought I was right
+about the rash.
+
+653
+00:31:23,917 --> 00:31:26,419
+I would do it again.
+
+654
+00:31:30,323 --> 00:31:33,459
+I thought so.
+[Beep]
+
+655
+00:31:33,526 --> 00:31:36,495
+<i>What, that's it?</i>
+<i>"I thought so"?</i>
+
+656
+00:31:36,563 --> 00:31:38,798
+What the hell
+does that mean?
+
+657
+00:31:40,867 --> 00:31:44,536
+You brazenly defied your boss.
+
+658
+00:31:44,588 --> 00:31:46,755
+Now that happened
+
+659
+00:31:46,840 --> 00:31:49,058
+either because Dr. House
+has established
+
+660
+00:31:49,142 --> 00:31:51,560
+that that's okay in his world,
+
+661
+00:31:51,645 --> 00:31:54,980
+or his prank war distracted you,
+
+662
+00:31:55,048 --> 00:31:59,585
+or House makes medicine a game,
+and you just wanted to beat him.
+
+663
+00:31:59,653 --> 00:32:01,120
+<i>Whatever the reason,</i>
+
+664
+00:32:01,188 --> 00:32:02,822
+<i>it boils down to the fact</i>
+
+665
+00:32:02,889 --> 00:32:05,524
+<i>that you may never walk again</i>
+
+666
+00:32:05,575 --> 00:32:07,443
+because House
+created an atmosphere
+
+667
+00:32:07,527 --> 00:32:10,729
+that promotes recklessness.
+
+668
+00:32:30,817 --> 00:32:36,605
+This will be
+our last round of questions.
+
+669
+00:32:38,525 --> 00:32:40,493
+I've spoken with Dr. Chase.
+
+670
+00:32:40,560 --> 00:32:42,978
+You know he regained movement.
+
+671
+00:32:45,065 --> 00:32:46,432
+No.
+
+672
+00:32:54,440 --> 00:32:56,292
+[Beep]
+
+673
+00:32:57,961 --> 00:32:59,745
+Are you really
+this indifferent
+
+674
+00:32:59,796 --> 00:33:02,965
+to the fact
+that Dr. Chase is hurt?
+
+675
+00:33:03,049 --> 00:33:06,051
+We're going off the record
+because this is irrelevant,
+
+676
+00:33:06,119 --> 00:33:07,803
+or are you gonna hit me?
+
+677
+00:33:07,888 --> 00:33:10,122
+Why don't you go tell
+the guy you're sorry--
+
+678
+00:33:10,190 --> 00:33:11,456
+I didn't do anything wrong.
+
+679
+00:33:11,508 --> 00:33:12,591
+It's not an admission
+of guilt.
+
+680
+00:33:12,659 --> 00:33:14,627
+He's your friend,
+and he's not well.
+
+681
+00:33:14,694 --> 00:33:15,928
+He's a coworker.
+
+682
+00:33:15,979 --> 00:33:18,597
+Coworker whom you've known
+for almost ten years
+
+683
+00:33:18,648 --> 00:33:19,848
+who nearly died
+
+684
+00:33:19,933 --> 00:33:23,018
+and who's still scared
+he may not walk.
+
+685
+00:33:23,103 --> 00:33:24,636
+Are you going
+to have me fired
+
+686
+00:33:24,688 --> 00:33:27,273
+for bad manners?
+
+687
+00:33:30,577 --> 00:33:33,529
+Just trying to
+understand you.
+
+688
+00:33:33,613 --> 00:33:35,114
+Why a man in your position,
+
+689
+00:33:35,165 --> 00:33:37,116
+with your abilities,
+
+690
+00:33:37,167 --> 00:33:39,702
+is incapable of shaking
+the impulse to act like an ass.
+
+691
+00:33:39,786 --> 00:33:43,205
+Could we go back on the record
+and get this over with?
+
+692
+00:33:45,592 --> 00:33:47,159
+[Beep]
+
+693
+00:33:47,210 --> 00:33:50,045
+Put the Vicodin away,
+Dr. House.
+
+694
+00:33:50,130 --> 00:33:52,214
+My leg hurts.
+
+695
+00:33:52,299 --> 00:33:56,385
+Pop!
+
+696
+00:33:56,469 --> 00:33:58,938
+[Chuckles]
+
+697
+00:33:59,005 --> 00:34:01,807
+Is that supposed
+to be funny?
+
+698
+00:34:11,034 --> 00:34:14,036
+Two explosions.
+
+699
+00:34:20,660 --> 00:34:21,794
+We're not done here.
+
+700
+00:34:25,617 --> 00:34:28,419
+Hey, hold on.
+
+701
+00:34:28,487 --> 00:34:29,453
+Close it up.
+
+702
+00:34:29,521 --> 00:34:30,687
+Take him out of there.
+
+703
+00:34:30,739 --> 00:34:33,174
+Dr. Foreman said
+you'd try this.
+
+704
+00:34:33,241 --> 00:34:35,326
+Said to tell you
+he's no longer your patient.
+
+705
+00:34:35,377 --> 00:34:37,495
+Let's go!
+
+706
+00:34:37,546 --> 00:34:39,196
+Hey!
+
+707
+00:34:43,969 --> 00:34:46,587
+[Siren wailing]
+
+708
+00:34:48,757 --> 00:34:50,207
+Wait.
+
+709
+00:34:52,260 --> 00:34:53,561
+<i>Wait.</i>
+
+710
+00:34:53,645 --> 00:34:56,597
+I have to get
+to my car.
+
+711
+00:34:56,681 --> 00:34:59,100
+Your husband has a tumor
+in his lymph nodes.
+
+712
+00:34:59,184 --> 00:35:00,734
+You've been wrong
+every time.
+
+713
+00:35:00,819 --> 00:35:01,936
+Yeah, well,
+not this time.
+
+714
+00:35:02,020 --> 00:35:03,854
+The explosion
+in the classroom
+
+715
+00:35:03,905 --> 00:35:05,906
+caused the cancer cells
+to break open.
+
+716
+00:35:05,991 --> 00:35:07,558
+It's called
+tumor lysis syndrome.
+
+717
+00:35:07,609 --> 00:35:10,244
+His body's flooded
+with an excess of phosphates,
+
+718
+00:35:10,328 --> 00:35:13,063
+potassium, acids,
+all kinds of cancerous junk.
+
+719
+00:35:13,115 --> 00:35:15,249
+It explains the paralysis,
+the bleeding,
+
+720
+00:35:15,333 --> 00:35:17,568
+the heart and kidney issues,
+everything.
+
+721
+00:35:19,571 --> 00:35:22,239
+What about
+the psychotic break?
+
+722
+00:35:22,290 --> 00:35:27,044
+Turns out we caused that.
+
+723
+00:35:27,095 --> 00:35:29,380
+[Elevator bell dings]
+
+724
+00:35:29,431 --> 00:35:32,967
+This is treatable.
+Okay?
+
+725
+00:35:33,051 --> 00:35:34,585
+You have to tell
+the new doctors
+
+726
+00:35:34,636 --> 00:35:36,187
+that he needs
+total body radiation
+
+727
+00:35:36,254 --> 00:35:37,521
+and plasmapheresis.
+
+728
+00:35:37,589 --> 00:35:39,957
+Move your cane, please.
+
+729
+00:35:53,455 --> 00:35:54,538
+Where's Cofield?
+
+730
+00:35:54,606 --> 00:35:56,207
+He said you walked out.
+
+731
+00:35:56,274 --> 00:35:58,626
+Well, I'm walking back.
+I'm not done testifying.
+
+732
+00:35:58,710 --> 00:35:59,943
+Apparently you were.
+
+733
+00:35:59,995 --> 00:36:02,796
+Said he'd have his decision
+tomorrow.
+
+734
+00:37:44,382 --> 00:37:45,316
+[Beep]
+
+735
+00:37:50,522 --> 00:37:53,440
+<i>(Cofield)</i>
+<i>This case is a fiasco.</i>
+
+736
+00:37:53,525 --> 00:37:56,210
+Didn't sleep last night.
+
+737
+00:37:59,080 --> 00:38:04,251
+Dr. House
+is obviously brilliant...
+
+738
+00:38:04,336 --> 00:38:05,703
+Well, I think
+we've heard enough.
+
+739
+00:38:05,754 --> 00:38:08,756
+But Dr. House
+is also a fiasco.
+
+740
+00:38:08,840 --> 00:38:10,958
+If I were to exonerate him,
+
+741
+00:38:11,042 --> 00:38:13,761
+<i>condone his completely</i>
+<i>reckless, immature,</i>
+
+742
+00:38:13,845 --> 00:38:16,246
+almost misanthropic behavior,
+
+743
+00:38:16,298 --> 00:38:17,781
+<i>I would essentially be</i>
+<i>sending a message</i>
+
+744
+00:38:17,849 --> 00:38:19,350
+to all the other doctors
+in this hospital
+
+745
+00:38:19,417 --> 00:38:21,185
+that it's okay
+to act that way and--
+
+746
+00:38:21,252 --> 00:38:22,753
+Sorry.
+
+747
+00:38:22,804 --> 00:38:23,971
+We're in the middle
+of something.
+
+748
+00:38:24,055 --> 00:38:25,255
+<i>(Emily)</i>
+<i>I know.</i>
+
+749
+00:38:25,307 --> 00:38:26,690
+<i>I came to speak</i>
+<i>with Dr. House.</i>
+
+750
+00:38:26,758 --> 00:38:29,760
+And when they told me
+he was in here,
+
+751
+00:38:29,811 --> 00:38:32,146
+I thought
+I should say something.
+
+752
+00:38:32,230 --> 00:38:35,366
+<i>I mean...</i>
+
+753
+00:38:35,433 --> 00:38:38,652
+He wasn't the nicest doctor
+I've ever met.
+
+754
+00:38:38,737 --> 00:38:39,903
+Well, I think
+we've heard enough.
+
+755
+00:38:39,954 --> 00:38:41,872
+<i>But he was right.</i>
+
+756
+00:38:43,708 --> 00:38:45,209
+They found the tumor.
+
+757
+00:38:45,276 --> 00:38:48,962
+They are removing it, and they
+are starting plasmapheresis.
+
+758
+00:38:49,047 --> 00:38:50,581
+<i>They expect</i>
+<i>a full recovery.</i>
+
+759
+00:38:54,552 --> 00:38:56,953
+He saved my husband's life.
+
+760
+00:38:59,257 --> 00:39:00,424
+<i>Well...</i>
+
+761
+00:39:00,475 --> 00:39:02,459
+I guess that's it.
+
+762
+00:39:02,510 --> 00:39:04,812
+Thanks again.
+
+763
+00:39:10,769 --> 00:39:12,469
+[Door shuts]
+
+764
+00:39:18,276 --> 00:39:20,577
+As I was saying,
+Dr. House's process
+
+765
+00:39:20,645 --> 00:39:24,815
+<i>is dangerous, inappropriate.</i>
+
+766
+00:39:27,252 --> 00:39:29,620
+But he is effective.
+
+767
+00:39:31,956 --> 00:39:34,792
+I've decided that
+I would be doing this hospital
+
+768
+00:39:34,843 --> 00:39:39,830
+a disservice if I did anything
+to change that process.
+
+769
+00:39:39,898 --> 00:39:43,350
+Congratulations,
+Dr. House.
+
+770
+00:39:43,435 --> 00:39:44,935
+This unfortunate
+stabbing incident
+
+771
+00:39:45,002 --> 00:39:48,372
+is officially
+nobody's fault.
+
+772
+00:39:48,440 --> 00:39:50,641
+[Beep]
+
+773
+00:40:08,376 --> 00:40:10,494
+Coward.
+
+774
+00:40:11,796 --> 00:40:13,196
+Excuse me?
+
+775
+00:40:13,248 --> 00:40:14,715
+<i>You've got, like, 20 pages</i>
+<i>of notes there.</i>
+
+776
+00:40:14,799 --> 00:40:17,200
+You were expecting to bore us
+for at least half an hour.
+
+777
+00:40:20,037 --> 00:40:23,056
+You got my parole form
+in here.
+
+778
+00:40:23,141 --> 00:40:24,942
+<i>You were gonna send me</i>
+<i>back to prison.</i>
+
+779
+00:40:25,009 --> 00:40:26,643
+House, stop.
+
+780
+00:40:26,711 --> 00:40:28,378
+Good things usually happen;
+
+781
+00:40:28,430 --> 00:40:29,880
+<i>bad things sometimes happen.</i>
+
+782
+00:40:29,931 --> 00:40:31,348
+<i>The fact</i>
+<i>that that would-be widow</i>
+
+783
+00:40:31,399 --> 00:40:32,900
+<i>came in just in time</i>
+<i>to sob</i>
+
+784
+00:40:32,984 --> 00:40:34,485
+all over your soft, mushy heart
+
+785
+00:40:34,552 --> 00:40:36,219
+and the fact
+that her husband's gonna live
+
+786
+00:40:36,271 --> 00:40:38,572
+does not change whether or not
+I did the right thing.
+
+787
+00:41:02,547 --> 00:41:05,799
+[Grunting, sharp breaths]
+
+788
+00:41:13,591 --> 00:41:15,309
+How'd you get
+the firing wire
+
+789
+00:41:15,393 --> 00:41:19,980
+into the Vicodin bottle
+without me noticing?
+
+790
+00:41:20,064 --> 00:41:22,199
+Why'd I even have to?
+
+791
+00:41:22,266 --> 00:41:24,067
+What was the point
+of the orange hair?
+
+792
+00:41:26,287 --> 00:41:27,771
+Your hair smelled
+like Adams.
+
+793
+00:41:27,822 --> 00:41:29,907
+And since there's no way
+that you're doing her
+
+794
+00:41:29,958 --> 00:41:32,826
+without me knowing, it means
+you were just doing her shampoo.
+
+795
+00:41:32,911 --> 00:41:35,779
+Which means you were out late
+drinking with some new girl
+
+796
+00:41:35,830 --> 00:41:37,948
+or because
+there is no new girl.
+
+797
+00:41:37,999 --> 00:41:40,551
+<i>You were trying to make up time</i>
+<i>by showering at the hospital</i>
+
+798
+00:41:40,618 --> 00:41:43,003
+because you're too lazy
+to buy your own shampoo.
+
+799
+00:41:43,087 --> 00:41:44,905
+So I found a way
+to let you know
+
+800
+00:41:44,973 --> 00:41:46,557
+<i>to not be late.</i>
+
+801
+00:41:46,624 --> 00:41:48,509
+You couldn't just ask me
+to stop being late?
+
+802
+00:41:48,593 --> 00:41:51,461
+What fun would that be?
+
+803
+00:41:51,529 --> 00:41:55,766
+None of this is fun,
+House.
+
+804
+00:42:05,026 --> 00:42:10,113
+They decided
+that your being stabbed...
+
+805
+00:42:10,164 --> 00:42:14,034
+Was nobody's fault.
+
+806
+00:42:22,844 --> 00:42:25,212
+They're wrong.
+
+807
+00:42:27,515 --> 00:42:30,183
+I'm sorry.
+
+808
+00:42:34,055 --> 00:42:35,889
+Anything else?
+
+809
+00:42:35,974 --> 00:42:38,191
+I'm kind of busy.
+
+810
+00:42:47,151 --> 00:42:48,819
+No.
+That was it.
+
+811
+00:42:51,689 --> 00:42:53,624
+I've got it.
+
+812
+00:42:53,691 --> 00:42:57,294
+[Panting, grunting]
+
+813
+00:42:57,319 --> 00:43:01,319
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
