@@ -45,65 +45,40 @@ func main() {
 func parse() {
 	fmt.Println("Parsing subtitle files and seeding database with possible fragments")
 
-	files, err := ioutil.ReadDir("subtitles")
+	episodes := parseSubtitleFiles()
+
+	fmt.Printf("Episode Count %d\n", len(episodes))
+
+	// Read list of common words into memory
+	byte_contents, err := ioutil.ReadFile("common_25000_lowercase.txt")
 	if err != nil {
-		fmt.Printf("There was an error listing the files in the subtitles directory: ", err)
+		fmt.Printf("Error opening list of common words: %s\n", err)
 	}
 
-	empty := regexp.MustCompile("^\\s$")
-	count := 0
+	common := make(map[string]bool)
+	for _, s := range strings.Split(string(byte_contents), "\n") {
+		common[s] = true
+	}
 
-	for _, f := range files {
-		// Extract the title and episode from the filename
-		metadata := regexp.MustCompile("([0-9])x([0-9]{2}) - (.+)\\.en\\.srt").FindStringSubmatch(f.Name())
-		ep := &episode{
-			title: metadata[3],
-		}
-		ep.seasonNum, _ = strconv.Atoi(metadata[1])
-		ep.episodeNum, _ = strconv.Atoi(metadata[2])
-
+	// Check how effective the common list even is
+	whitespace := regexp.MustCompile("\\s")
+	skipped, total := 0, 0
+	for _, ep := range episodes {
 		fmt.Printf("Parsing Season %d, Episode %d: %s\n", ep.seasonNum, ep.episodeNum, ep.title)
-
-		// Get the file contents
-		byte_contents, err := ioutil.ReadFile("subtitles/" + f.Name())
-		if err != nil {
-			fmt.Printf("There was an error reading the subtitle file: %s\n", err)
-		}
-		contents := string(byte_contents)
-
-		// Subtitle files are structured nicely using newlines
-		segments := regexp.MustCompile("\n\n+").Split(contents, -1)
-		for _, segment := range segments {
-			rows := strings.Split(segment, "\n")
-			l := &line{}
-			l.order, err = strconv.Atoi(rows[0])
-			l.start, l.end = timestampToMilliseconds(rows[1])
-			l.content = ""
-			for i := 2; i < len(rows); i++ {
-				l.content += " " + rows[i]
+		for _, line := range ep.lines {
+			words := whitespace.Split(line.content, -1)
+			for _, word := range words {
+				total += 1
+				if common[word] {
+					skipped += 1
+				}
 			}
-
-			// Empty subtitles hold no information
-			if empty.MatchString(l.content) {
-				continue
-			}
-
-			ep.lines = append(ep.lines, l)
-			count += len(strings.Split(l.content, " "))
 		}
 	}
-	fmt.Printf("Word Count: %d\n", count)
+	fmt.Printf("Total words: %d\nSkipped words: %d\nOther: %d\n", total, skipped, total-skipped)
 }
 
 func timestampToMilliseconds(str string) (int, int) {
-	// This is a very error prone process. Not all rows have timestamp data
-	defer func() {
-		if r := recover(); r != nil {
-			fmt.Println("Recovered in f", r)
-			fmt.Printf("str: %s\n", str)
-		}
-	}()
-
 	r := regexp.MustCompile("([0-9]*):([0-9]*):([0-9]*),([0-9]*)")
 	matches := r.FindAllStringSubmatch(str, -1)
 
@@ -122,4 +97,56 @@ func timestampToMilliseconds(str string) (int, int) {
 	end := hours*3600000 + minutes*60000 + seconds*1000 + milliseconds
 
 	return start, end
+}
+
+func parseSubtitleFiles() []*episode {
+	files, err := ioutil.ReadDir("subtitles")
+	if err != nil {
+		fmt.Printf("There was an error listing the files in the subtitles directory: ", err)
+	}
+
+	empty := regexp.MustCompile("^\\s$")
+	exclude := regexp.MustCompile("([.?,\\-=/\"\\(\\)\\[\\]!0-9♪]|</?i>|)")
+
+	episodes := []*episode{}
+	for _, f := range files {
+		// Extract the title and episode from the filename
+		metadata := regexp.MustCompile("([0-9])x([0-9]{2}) - (.+)\\.en\\.srt").FindStringSubmatch(f.Name())
+		ep := &episode{
+			title: metadata[3],
+		}
+		ep.seasonNum, _ = strconv.Atoi(metadata[1])
+		ep.episodeNum, _ = strconv.Atoi(metadata[2])
+
+		fmt.Printf("Reading Season %d, Episode %d: %s\n", ep.seasonNum, ep.episodeNum, ep.title)
+
+		// Get the file contents
+		byte_contents, err := ioutil.ReadFile("subtitles/" + f.Name())
+		if err != nil {
+			fmt.Printf("There was an error reading the subtitle file: %s\n", err)
+		}
+		contents := string(byte_contents)
+
+		// Subtitle files are structured nicely using newlines
+		segments := regexp.MustCompile("\n\n+").Split(contents, -1)
+		for _, segment := range segments {
+			rows := strings.Split(segment, "\n")
+			l := &line{}
+			l.order, err = strconv.Atoi(rows[0])
+			l.start, l.end = timestampToMilliseconds(rows[1])
+			l.content = ""
+			for i := 2; i < len(rows); i++ {
+				l.content += " " + strings.ToLower(exclude.ReplaceAllString(rows[i], ""))
+			}
+
+			// Empty subtitles hold no information
+			if empty.MatchString(l.content) {
+				continue
+			}
+
+			ep.lines = append(ep.lines, l)
+		}
+		episodes = append(episodes, ep)
+	}
+	return episodes
 }
